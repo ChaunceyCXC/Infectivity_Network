@@ -1,46 +1,67 @@
 import json
 from bs4 import BeautifulSoup
 import os
-def writeToJSONFile(filePath, data):
-    with open(filePath, 'a') as fp:
+
+
+def write_to_json_file(file_path, data):
+    with open(file_path, 'a') as fp:
         json.dump(data, fp)
         fp.write("\n")
 
+
+class parser:
+    def __init__(self):
+        self.source_dir = "C:/Users/leoac/Desktop/ChatExport_29_05_2020"
+        self.output_file = "C:/Users/leoac/Desktop/ChatExportFilter_29_05_2020.json"
+        self.have_text = False
+        self.remove_deleted_account = True
+        self.remove_consequent = True
+        self.last_username = ""
+
+    def parse(self):
+        files = os.listdir(self.source_dir)
+        files.sort()
+        for file in files:
+            if file[-4:] == "html":
+                file_path = self.source_dir + "/" + file
+                a_products_desc_page = open(file_path, encoding='utf-8')
+                a_beautiful_soup = BeautifulSoup(a_products_desc_page, features="html.parser")
+                a_products_desc_page.close()
+                history = a_beautiful_soup.find('div', {"class": "history"})
+                divs = history.find_all('div', class_="body")
+                date = ""
+                username = ""
+                text = ""
+                for div in divs:
+                    if div["class"] == ['body']:
+                        date_div = div.find("div", class_="pull_right date details")
+                        name_div = div.find("div", class_="from_name")
+                        text_div = div.find("div", class_="text")
+                        if date_div is not None:
+                            date = date_div["title"]
+                        else:
+                            continue
+                        if name_div is not None:
+                            username = name_div.text.strip()
+                            if username == "Deleted Account":
+                                if self.remove_deleted_account:
+                                    continue
+                        if text_div is not None:
+                            text = text_div.text.strip()
+                        else:
+                            text = "NOT TEXT"
+                        if self.remove_consequent:
+                            if username == self.last_username:
+                                continue
+                        if self.have_text:
+                            a_new_message = {"date": date, "username": username, "text": text}
+                        else:
+                            a_new_message = {"date": date, "username": username}
+                        write_to_json_file(self.output_file, a_new_message)
+                        self.last_username = username
+
+
 # The main function, the entry point
 if __name__ == '__main__':
-    files=os.listdir(r"C:\Users\leoac\Desktop\ChatExport_29_05_2020")
-    files.sort()
-    for file in files:
-        if(file[-4:]=="html"):
-            filepath="C:/Users/leoac/Desktop/ChatExport_29_05_2020" + "/"+file
-            aOneProductsDescPage = open(filepath, encoding='utf-8')
-            aBeautifulSoup = BeautifulSoup(aOneProductsDescPage, features="html.parser")
-            aOneProductsDescPage.close()
-            history=aBeautifulSoup.find('div',{"class":"history"})
-            divs=history.find_all('div',class_="body")
-            date=""
-            username=""
-            text=""
-            for div in divs:
-                if(div["class"]==['body']):
-                    dateDiv=div.find("div", class_="pull_right date details")
-                    nameDiv=div.find("div", class_="from_name")
-                    textDiv=div.find("div", class_="text")
-
-                    if dateDiv!=None:
-                        date=dateDiv["title"]
-                    else :
-                        continue
-                    if nameDiv!=None:
-                        username=nameDiv.text.strip()
-                    if textDiv != None:
-                        text=textDiv.text.strip()
-                    else :
-                        text="NOT TEXT"
-
-
-                    aNewMessage={}
-                    aNewMessage["date"]=date
-                    aNewMessage["username"]=username
-                    aNewMessage["text"]=text
-                    writeToJSONFile(r"C:\Users\leoac\Desktop\ChatExport_29_05_2020.json", aNewMessage)
+    a_parser = parser()
+    a_parser.parse()
