@@ -11,9 +11,9 @@ def write_to_json_file(file_path, data):
 
 class parser:
     def __init__(self):
-        self.source_dir = "C:/Users/leoac/Desktop/ChatExport_29_05_2020"
-        self.output_file = "C:/Users/leoac/Desktop/ChatExportFilter_29_05_2020.json"
-        self.dic_file_path = "C:/Users/leoac/Desktop/groupChat/dict.json"
+        self.source_dir = "C:/Users/leoac/Desktop/ChatExport_29_05_2020"         # source file from telegram
+        self.output_file = "C:/Users/leoac/Desktop/ChatExportFilter_29_05_2020.json"   #output1: parsed result
+        self.dic_file_path = "C:/Users/leoac/Desktop/groupChat/dict.json"   # outout2: usernmae to number dictionary
         self.have_text = False
         self.remove_deleted_account = True
         self.remove_consequent = True
