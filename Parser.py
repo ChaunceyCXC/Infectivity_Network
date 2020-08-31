@@ -13,6 +13,7 @@ class parser:
     def __init__(self):
         self.source_dir = "C:/Users/leoac/Desktop/ChatExport_29_05_2020"
         self.output_file = "C:/Users/leoac/Desktop/ChatExportFilter_29_05_2020.json"
+        self.dic_file_path = "C:/Users/leoac/Desktop/groupChat/dict.json"
         self.have_text = False
         self.remove_deleted_account = True
         self.remove_consequent = True
@@ -21,6 +22,8 @@ class parser:
     def parse(self):
         files = os.listdir(self.source_dir)
         files.sort()
+        dict = {}
+        index = 0
         for file in files:
             if file[-4:] == "html":
                 file_path = self.source_dir + "/" + file
@@ -46,6 +49,8 @@ class parser:
                             if username == "Deleted Account":
                                 if self.remove_deleted_account:
                                     continue
+                        else:
+                            continue
                         if text_div is not None:
                             text = text_div.text.strip()
                         else:
@@ -59,6 +64,11 @@ class parser:
                             a_new_message = {"date": date, "username": username}
                         write_to_json_file(self.output_file, a_new_message)
                         self.last_username = username
+                        if username not in dict.keys():
+                            dict[username] = index
+                            index = index + 1
+
+        write_to_json_file(self.dic_file_path, dict)
 
 
 # The main function, the entry point
