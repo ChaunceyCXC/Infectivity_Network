@@ -1,28 +1,43 @@
 import json
 from bs4 import BeautifulSoup
 import os
+import csv
 
 
 def write_to_json_file(file_path, data):
-    with open(file_path, 'a') as fp:
+    with open(file_path, 'a',encoding='utf-8') as fp:
         json.dump(data, fp)
         fp.write("\n")
 
 
+def write_to_csv_file(file_path, data):
+    with open(file_path, "w", newline="", encoding='utf-8') as f:
+        writer = csv.writer(f)
+        writer.writerows(data)
+
+
 class parser:
     def __init__(self):
-        self.source_dir = "C:/Users/leoac/Desktop/ChatExport_29_05_2020"         # source file folder from telegram
-        self.output_file = "C:/Users/leoac/Desktop/ChatExportFilter_29_05_2020.json"   #output1: parsed result
-        self.dic_file_path = "C:/Users/leoac/Desktop/groupChat/dict.json"   # outout2: usernmae to number dictionary
+        self.source_dir = "C:/Users/leoac/Desktop/ChatExport_29_05_2020"  # source file folder from telegram
+        self.output_file_json = "C:/Users/leoac/Desktop/ChatExportFilter_29_05_2020.json"  # output1: parsed result
+        self.output_file_csv = "C:/Users/leoac/Desktop/ChatExportFilter_29_05_2020.csv"
+        self.dic_file_path = "C:/Users/leoac/Desktop/dict.json"  # outout2: usernmae to number dictionary
         self.have_text = False
         self.remove_deleted_account = True
         self.remove_consequent = True
         self.last_username = ""
+        self.save_as_csv = True
 
     def parse(self):
+        csv_columns = []
+        if self.have_text:
+            csv_columns = ['date', 'username', 'text']
+        else:
+            csv_columns = ['date', 'username']
         files = os.listdir(self.source_dir)
         files.sort()
         dict = {}
+        all_messages = [csv_columns]
         index = 0
         for file in files:
             if file[-4:] == "html":
@@ -60,13 +75,18 @@ class parser:
                                 continue
                         if self.have_text:
                             a_new_message = {"date": date, "username": username, "text": text}
+                            all_messages.append([date, username, text])
                         else:
                             a_new_message = {"date": date, "username": username}
-                        write_to_json_file(self.output_file, a_new_message)
+                            all_messages.append([date, username])
+                        if not self.save_as_csv:
+                            write_to_json_file(self.output_file_json, a_new_message)
                         self.last_username = username
                         if username not in dict.keys():
                             dict[username] = index
                             index = index + 1
+        if self.save_as_csv:
+            write_to_csv_file(self.output_file_csv, all_messages)
 
         write_to_json_file(self.dic_file_path, dict)
 
