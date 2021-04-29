@@ -1,36 +1,33 @@
-import json
 from bs4 import BeautifulSoup
 import os
-import csv
 import datetime
+from uti.utility import write_to_csv_file
+from uti.utility import write_to_json_file
+from uti.utility import deEmojify
+import string
 
 
-def write_to_json_file(file_path, data):
-    with open(file_path, 'a', encoding='utf-8') as fp:
-        json.dump(data, fp)
-        fp.write("\n")
-
-
-def write_to_csv_file(file_path, data):
-    with open(file_path, "w", newline="", encoding='utf-8') as f:
-        writer = csv.writer(f)
-        writer.writerows(data)
-
-
-class parser:
-    def __init__(self):
-        self.source_dir = "C:/Users/leoac/Desktop/ChatExport_29_05_2020"  # source file folder from telegram
-        self.output_file_json = "C:/Users/leoac/Desktop/groupChat/ChatExportFilter_29_05_2020.json"  # output1: parsed result
-        self.output_file_csv = "C:/Users/leoac/Desktop/groupChat/ChatExportFilter_29_05_2020.csv"
-        self.dic_file_path = "C:/Users/leoac/Desktop/dict.json"  # outout2: usernmae to number dictionary
+class TelegramParser:
+    def __init__(self, folder, save_as_csv=True):
+        self.folder = folder
+        self.source_dir = "/home/xucan/Downloads/Telegram Desktop/" + self.folder  # source file folder from telegram
+        self.output_file_json = os.path.join(self.source_dir, "Chat/chat.json")  # output1: parsed result
+        self.output_file_csv = os.path.join(self.source_dir, "Chat/chat.csv")
+        self.dic_file_path = os.path.join(self.source_dir, "Chat/dict.json")  # outout2: usernmae to number dictionary
         self.have_text = True
         self.remove_deleted_account = True
         self.remove_consequent = False
         self.last_username = ""
-        self.save_as_csv = True
+        self.save_as_csv = save_as_csv
         self.sequence_range = 1
 
     def parse(self):
+        if self.save_as_csv and os.path.exists(self.output_file_csv):
+            os.remove(self.output_file_csv)
+        if not self.save_as_csv and os.path.exists(self.output_file_json):
+            os.remove(self.output_file_json)
+        if os.path.exists(self.dic_file_path):
+            os.remove(self.dic_file_path)
         csv_columns = []
         if self.have_text:
             csv_columns = ['sequenceID', 'date', 'username', 'text']
@@ -83,9 +80,22 @@ class parser:
                         if self.remove_consequent:
                             if username == self.last_username:
                                 continue
+                        text = deEmojify(text)
                         if self.have_text:
-                            a_new_message = {"sequenceID": sequenceID, "date": date, "username": username, "text": text}
-                            all_messages.append([sequenceID, date, username, text])
+                            if text != "NOT TEXT" and text != "":
+                                if username != self.last_username:
+                                    a_new_message = {"sequenceID": sequenceID, "date": date, "username": username, "text": text}
+                                    all_messages.append([sequenceID, date, username, text])
+                                else :
+                                    last_message = all_messages.pop()
+                                    the_text = last_message[3]
+                                    if the_text[-1] in string.punctuation:
+                                        last_message[3] = the_text + " " + text
+                                    else:
+                                        last_message[3] = the_text + ". " + text
+                                    all_messages.append(last_message)
+
+
                         else:
                             a_new_message = {"sequenceID": sequenceID, "date": date, "username": username}
                             all_messages.append([sequenceID, date, username])
@@ -103,5 +113,5 @@ class parser:
 
 # The main function, the entry point
 if __name__ == '__main__':
-    a_parser = parser()
+    a_parser = TelegramParser("Credit")
     a_parser.parse()
