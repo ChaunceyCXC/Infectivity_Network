@@ -1,5 +1,3 @@
-import json
-import os
 import numpy as np
 from uti.utility import g
 from uti.utility import integral_g
@@ -50,6 +48,7 @@ def learning_by_mle(time_sequence, user_sequence, ite):
                 else:
                     A[j, i] = sum_Pji[j, i] / sum_G[j]
         return A, mu
+
 
 if __name__ == '__main__':
     filepath = "/home/xucan/Downloads/Telegram Desktop/Credit/Chat/chat.csv"
