@@ -1,6 +1,8 @@
 import json
 import csv
 import re
+
+import numpy as np
 import pandas as pd
 from math import exp
 
@@ -37,12 +39,20 @@ def deEmojify(text):
         u"\U0001F1E0-\U0001F1FF"  # flags (iOS)
                            "]+", flags = re.UNICODE)
     return regrex_pattern.sub(r'',text)
+def adjust(A):
+    A = A/np.amax(A)
+    return A
 
 def g(w,t):
     return w*exp(-w*t)
 
 def integral_g(w,t):
     return 1-exp(-w*t)
+
+
+def savegraphtotxt(graph, file):
+   np.savetxt(file,graph,fmt='%.2f')
+
 
 if __name__ == '__main__':
     filepath = "/home/xucan/Downloads/Telegram Desktop/Credit/Chat/chat.csv"

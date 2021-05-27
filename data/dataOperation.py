@@ -74,11 +74,11 @@ def save_user_dict_multiple(filepath, start_id, end_id, dict_name):
                 index += 1
     utility.write_to_json_file(dict_name, dict)
 
-def get_user_dict_multiple(filepath, end_id):
+def get_user_dict_multiple(filepath, start_id, end_id):
     df = utility.read_csv_todf(filepath)
     index = 0
     dict = {}
-    for i in range(1, end_id+1):
+    for i in range(start_id, end_id+1):
         sequence_df = df[df.sequenceID == i]
         username_sequence = sequence_df["username"].tolist()
         for username in username_sequence:
@@ -90,5 +90,5 @@ def get_user_dict_multiple(filepath, end_id):
 
 if __name__ == '__main__':
     filepath = "/home/xucan/Downloads/Telegram Desktop/Credit/Chat/chat.csv"
-    save_user_dict_multiple(filepath, 1, 1, "dict_1122.json")
+    save_user_dict_multiple(filepath, 1, 1000, "user/dict_1000.json")
 
