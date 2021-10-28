@@ -42,8 +42,10 @@ class Simulator:
 if __name__ == '__main__':
     D = 5
     A = np.random.rand(D, D)
-    np.fill_diagonal(self.A, 0)
-    simulator = Simulator(A, D)
+    print(A)
+    np.fill_diagonal(A, 0)
+    init = np.random.randint(0, D - 1)
+    simulator = Simulator(A, D,init)
     simulator.simulation()
     print(simulator.time_sequence)
     print(simulator.user_sequence)
