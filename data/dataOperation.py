@@ -17,20 +17,32 @@ def read_reply_embedding(file):
         return data
 
 
+def simulate_reply_embedding(trigger_sequence):
+    length = len(trigger_sequence)
+    if length <= 1:
+        return None
+    reply_embedding = []
+    for i in range(1,length):
+        index = trigger_sequence[i]
+        ls = [0.4]*i
+        ls[index] = 0.9
+        reply_embedding.append(ls)
+    return reply_embedding
+
 def get_time_sequence(sequence_df):
-     date_sequence = sequence_df["date"].tolist()
-     time_sequence = [0]
-     first_datetime = datetime.strptime(date_sequence[0], '%d.%m.%Y %H:%M:%S')
-     for i in range(1, len(date_sequence)):
-         ith_datetime = datetime.strptime(date_sequence[i], '%d.%m.%Y %H:%M:%S')
-         diff = (ith_datetime-first_datetime).total_seconds()
-         time_sequence.append(diff)
-     return time_sequence
+    date_sequence = sequence_df["date"].tolist()
+    time_sequence = [0]
+    first_datetime = datetime.strptime(date_sequence[0], '%d.%m.%Y %H:%M:%S')
+    for i in range(1, len(date_sequence)):
+        ith_datetime = datetime.strptime(date_sequence[i], '%d.%m.%Y %H:%M:%S')
+        diff = (ith_datetime - first_datetime).total_seconds()
+        time_sequence.append(diff)
+    return time_sequence
 
 
 def get_user_sequence(sequence_df):
     username_sequence = sequence_df["username"].tolist()
-    user_sequence= []
+    user_sequence = []
     dict = {}
     index = 0
     for username in username_sequence:
@@ -65,7 +77,7 @@ def save_user_dict_multiple(filepath, start_id, end_id, dict_name):
     df = utility.read_csv_todf(filepath)
     index = 0
     dict = {}
-    for i in range(start_id, end_id+1):
+    for i in range(start_id, end_id + 1):
         sequence_df = df[df.sequenceID == i]
         username_sequence = sequence_df["username"].tolist()
         for username in username_sequence:
@@ -74,11 +86,12 @@ def save_user_dict_multiple(filepath, start_id, end_id, dict_name):
                 index += 1
     utility.write_to_json_file(dict_name, dict)
 
+
 def get_user_dict_multiple(filepath, start_id, end_id):
     df = utility.read_csv_todf(filepath)
     index = 0
     dict = {}
-    for i in range(start_id, end_id+1):
+    for i in range(start_id, end_id + 1):
         sequence_df = df[df.sequenceID == i]
         username_sequence = sequence_df["username"].tolist()
         for username in username_sequence:
@@ -91,4 +104,3 @@ def get_user_dict_multiple(filepath, start_id, end_id):
 if __name__ == '__main__':
     filepath = "/home/xucan/Downloads/Telegram Desktop/Credit/Chat/chat.csv"
     save_user_dict_multiple(filepath, 1, 1000, "user/dict_1000.json")
-

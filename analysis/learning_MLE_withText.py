@@ -7,10 +7,10 @@ from uti.utility import g
 from uti.utility import integral_g
 from uti import utility
 
-def learning_by_mle_withtext(time_sequence, user_sequence, reply_embedding, ite , w):
+def learning_by_mle_withtext(D, time_sequence, user_sequence, reply_embedding, ite , w):
     seq_length = len(time_sequence)
     # d is the number of total users and T is the end of the sequence
-    D = len(set(user_sequence))
+    # D = len(set(user_sequence))
     T = time_sequence[-1]
     T += 600
     A = np.ones((D, D))
