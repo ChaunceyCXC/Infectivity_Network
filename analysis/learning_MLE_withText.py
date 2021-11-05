@@ -14,7 +14,7 @@ def learning_by_mle_withtext(D, time_sequence, user_sequence, reply_embedding, i
     T = time_sequence[-1]
     T += 600
     A = np.ones((D, D))
-    mu = np.ones((D))
+    mu = np.zeros((D))
     mu = mu*w
     sum_G = np.zeros(D)
     sum_Pii = np.zeros(D)
