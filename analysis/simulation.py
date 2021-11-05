@@ -3,14 +3,15 @@ from uti import utility
 
 
 class Simulator:
-    def __init__(self, A, D, init):
+    def __init__(self, A, D, init1):
         self.D = D
         self.A = A
         # self.mu = np.random.rand(D, 1)
-        self.T = 200
-        self.user_sequence = [init]
+        self.T = 1200
+        self.user_sequence = [init1]
         self.time_sequence = [0]
         self.trigger_sequence = [0]
+        self.group_sequence =[0]
     def getArr_rate(self, t):
         arr_rate = np.zeros(self.D)
         for i in range(len(self.user_sequence)):
@@ -27,7 +28,7 @@ class Simulator:
             arr_ls = self.getArr_rate(t)
             arr = np.sum(arr_ls)
             u = np.random.uniform(0, 1)
-            w = -np.log(u) / arr
+            w = -np.log(u) /(arr)
             t = t + w
             v = np.random.uniform(0, 1)
             decayed_arr_ls = self.getArr_rate(t)
@@ -51,6 +52,8 @@ class Simulator:
                 self.trigger_sequence.append(max_index)
                 self.user_sequence.append(newspeaker)
                 self.time_sequence.append(t)
+                group = self.group_sequence[max_index]
+                self.group_sequence.append(group)
 
 
 if __name__ == '__main__':
@@ -63,3 +66,5 @@ if __name__ == '__main__':
     simulator.simulation()
     print(simulator.time_sequence)
     print(simulator.user_sequence)
+    print(simulator.trigger_sequence)
+    print(simulator.group_sequence)

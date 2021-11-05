@@ -9,10 +9,10 @@ if __name__ == '__main__':
     np.fill_diagonal(A, 0)
     A[0, 1] = 0.8
     A[0, 2] = 0.8
-    A[1, 0] = 0.2
-    A[1, 2] = 0.2
+    A[1, 0] = 0.3
+    A[1, 2] = 0.3
     A[2, 0] = 0.8
-    A[2, 1] = 0.2
+    A[2, 1] = 0.3
 
     A_t = np.zeros((D, D))
     A_t_text = np.zeros((D, D))
@@ -35,10 +35,10 @@ if __name__ == '__main__':
         A_t = A_t + A_add
         A_t_text += A_add_text
         ite_number += 1
-        if ite_number == 300:
+        if ite_number == 200:
             break
-    A_t /= 300
-    A_t_text /= 300
+    A_t /= 200
+    A_t_text /= 200
 
     print(A_t)
     print(A_t_text)
