@@ -1,17 +1,17 @@
 import numpy as np
 from uti import utility
-
+from data.dataOperation import combineTopicChat
 
 class Simulator:
     def __init__(self, A, D, init1):
         self.D = D
         self.A = A
         # self.mu = np.random.rand(D, 1)
-        self.T = 1200
+        self.T = 300
         self.user_sequence = [init1]
         self.time_sequence = [0]
         self.trigger_sequence = [0]
-        self.group_sequence =[0]
+        self.group_sequence =[0 ]
     def getArr_rate(self, t):
         arr_rate = np.zeros(self.D)
         for i in range(len(self.user_sequence)):
@@ -30,6 +30,7 @@ class Simulator:
             u = np.random.uniform(0, 1)
             w = -np.log(u) /(arr)
             t = t + w
+            t = int(t)
             v = np.random.uniform(0, 1)
             decayed_arr_ls = self.getArr_rate(t)
             decayed_arr = np.sum(decayed_arr_ls)
@@ -37,7 +38,8 @@ class Simulator:
             if v <= 1:
                 possibility = decayed_arr_ls / decayed_arr
                 d = np.random.choice(self.D, 1, p=possibility)
-                newspeaker = d[0]
+                newspeaker = int(d[0])
+
                 influenceArray=[]
                 for i in range(len(self.user_sequence)):
                     t_difference = t-self.time_sequence[i]
@@ -57,14 +59,27 @@ class Simulator:
 
 
 if __name__ == '__main__':
-    D = 5
+    D =4
     A = np.random.rand(D, D)
-    print(A)
+    np.fill_diagonal(A, 0)
+    A[0, 1] = 0.8
+    A[0, 2] = 0.2
+    A[0, 3] = 0.2
+    A[1, 0] = 0.8
+    A[1, 2] = 0.2
+    A[1, 2] = 0.2
+    A[2, 0] = 0.2
+    A[2, 1] = 0.2
+    A[2, 3] = 0.8
+    A[3, 0] = 0.2
+    A[3, 1] = 0.2
+    A[3, 2] = 0.8
     np.fill_diagonal(A, 0)
     init = np.random.randint(0, D - 1)
-    simulator = Simulator(A, D,init)
-    simulator.simulation()
-    print(simulator.time_sequence)
-    print(simulator.user_sequence)
-    print(simulator.trigger_sequence)
-    print(simulator.group_sequence)
+    simulator1 = Simulator(A, D,0)
+    simulator2 = Simulator(A,D,2)
+    simulator1.simulation()
+    simulator2.simulation()
+    result = combineTopicChat(simulator1,simulator2)
+    print(result)
+

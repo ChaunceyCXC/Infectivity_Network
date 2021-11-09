@@ -101,6 +101,53 @@ def get_user_dict_multiple(filepath, start_id, end_id):
     return dict
 
 
+
+def combineTopicChat(simulator1, simulator2):
+    t1 = simulator1.time_sequence
+    u1 = simulator1.user_sequence
+
+    t2 = simulator2.time_sequence
+    u2 = simulator2.user_sequence
+
+    l1 = len(t1)
+    l2 = len(t2)
+    t = []
+    u = []
+    group = []
+    p1=p2 = 0
+    while p1 < l1 and p2 < l2:
+        if t1[p1] <= t2[p2] :
+            t.append(t1[p1])
+            u.append(u1[p1])
+            group.append(0)
+            p1+=1
+        else :
+            t.append(t2[p2])
+            u.append(u2[p2])
+            group.append(1)
+            p2+=1
+    if p1 < l1:
+        t.extend(t1[p1:])
+        u.extend(u1[p1:])
+        group.extend([0]*(l1-p1))
+    if p2 < l2:
+        t.extend(t2[p2:])
+        u.extend(u2[p2:])
+        group.extend([1]*(l2-p2))
+
+    result={"time_sequence":t, "user_sequence":u, "group_sequence":group}
+    return result,l1,l2
+
+
+
+
+
+
+
+
+
+
+
 if __name__ == '__main__':
     filepath = "/home/xucan/Downloads/Telegram Desktop/Credit/Chat/chat.csv"
     save_user_dict_multiple(filepath, 1, 1000, "user/dict_1000.json")
