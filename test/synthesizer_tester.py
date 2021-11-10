@@ -12,6 +12,9 @@ class synthesizer_tester:
         self.time_user = os.path.join(self.source_dir,"tu_sequence.json")
         self.embedding = os.path.join(self.source_dir,"reply_BST_1_98.json")
     def test_accuracy(self):
+        time_user = read_json(self.time_user)
+        reply_embedding = read_json(self.embedding)
+
 
         for i in range(10000):
             time_sequence = simulator.time_sequence
