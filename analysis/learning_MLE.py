@@ -23,7 +23,7 @@ def learning_by_mle(D, time_sequence, user_sequence, ite, w):
             integral = integral_g(w, T - ti)
             sum_G[di] += integral
 
-            if i == 0:
+            if i == 0 or i==1:
                 sum_Pii[di] += 1
             else:
                 sum_influence = mu[di]

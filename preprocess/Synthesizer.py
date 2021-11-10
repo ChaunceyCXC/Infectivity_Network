@@ -81,21 +81,21 @@ if __name__ == '__main__':
     A = np.random.rand(D, D)
     np.fill_diagonal(A, 0)
 
-    A[0, 1] = 0.8
-    A[0, 2] = 0.2
-    A[0, 3] = 0.2
-    A[1, 0] = 0.8
-    A[1, 2] = 0.2
-    A[1, 2] = 0.2
-    A[2, 0] = 0.2
-    A[2, 1] = 0.2
-    A[2, 3] = 0.8
-    A[3, 0] = 0.2
-    A[3, 1] = 0.2
-    A[3, 2] = 0.8
+    A[0, 1] = 0.9
+    A[0, 2] = 0.01
+    A[0, 3] = 0.01
+    A[1, 0] = 0.9
+    A[1, 2] = 0.01
+    A[1, 3] = 0.01
+    A[2, 0] = 0.01
+    A[2, 1] = 0.01
+    A[2, 3] = 0.9
+    A[3, 0] = 0.01
+    A[3, 1] = 0.01
+    A[3, 2] = 0.9
     folder = "/home/chauncey/PycharmProjects/Parsing_Telegram_Chat_History/data/synthesizer_data/blended_skill_talk/"
     source_file = os.path.join(folder, "test.csv" )
     output_tu_json =os.path.join(folder, "tu_sequence.json" )
     output_synthesized_text_s = os.path.join(folder, "text_sequence.csv")
-    synthesizer =Synthesizer(source_file,output_tu_json,output_synthesized_text_s,100)
+    synthesizer =Synthesizer(source_file,output_tu_json,output_synthesized_text_s,201)
     synthesizer.synthesize(A)

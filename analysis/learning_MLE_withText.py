@@ -27,8 +27,8 @@ def learning_by_mle_withtext(D, time_sequence, user_sequence, reply_embedding, i
             integral = integral_g(w, T - ti)
             sum_G[di] += integral
 
-            if i == 0:
-                sum_Pii[di] += 1
+            if i == 0 or i ==1:
+                sum_Pii[di] += 0
             else:
                 sum_influence = mu[di]
                 for j in range(i):
