@@ -93,9 +93,9 @@ if __name__ == '__main__':
     A[3, 0] = 0.01
     A[3, 1] = 0.01
     A[3, 2] = 0.9
-    folder = "/home/chauncey/PycharmProjects/Parsing_Telegram_Chat_History/data/synthesizer_data/blended_skill_talk/"
+    folder = "/home/chauncey/PycharmProjects/Parsing_Telegram_Chat_History/data/synthesizer_data/ConvAIChitChat/"
     source_file = os.path.join(folder, "test.csv" )
     output_tu_json =os.path.join(folder, "tu_sequence.json" )
     output_synthesized_text_s = os.path.join(folder, "text_sequence.csv")
-    synthesizer =Synthesizer(source_file,output_tu_json,output_synthesized_text_s,201)
+    synthesizer =Synthesizer(source_file,output_tu_json,output_synthesized_text_s,51)
     synthesizer.synthesize(A)

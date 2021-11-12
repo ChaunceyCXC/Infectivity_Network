@@ -199,7 +199,6 @@ sequenceID,text
 26,http://i1.kym-cdn.com/photos/images/facebook/000/862/065/0e9.jpg
 26,http://www.supergrove.com/wp-content/uploads/2017/03/speak-english-meme-1-english-motherfucker-do-you-speak-it.jpg
 26,sorry
-26,😂👍
 27, Well that makes more sense.
 27,"Yes, are u sure?"
 27,lets check it
@@ -224,7 +223,6 @@ sequenceID,text
 28,Потому что бэтмен
 29,Lаlаlа!
 29,Just two?
-29,
 30,"Yeah, u r definitely not a bot"
 31,"Okay, sorry about that. That makes a lot of sense."
 31,What makes a lot of sense?
@@ -282,28 +280,12 @@ sequenceID,text
 32,)
 32,:}
 32,}
-32,😊
-32,😊
-32,👻
-32,👻
 32,🤠
 32,🤠
 32,🤣
 32,🤣
-32,👌🏽
-32,👌🏽
-32,🍭
-32,🍭
-32,🌮
-32,🌮
-32,🎊
-32,🎊
-32,💛❤️💚
-32,💛❤️💚
-32,🔝🔜
-32,🔝🔜
-32,🇿🇼🇿🇲🇾🇪
-32,🇿🇼🇿🇲🇾🇪
+32,❤️
+32,❤️
 33,avilable
 33,Do you like this mosaic?
 33,"yes , i do ."
@@ -326,7 +308,6 @@ sequenceID,text
 34,do you know what is Saint Helena&
 34,?
 34,"Yes, I like to eat pizza. My favorite topping is pepperoni."
-34,
 34,Does it have anything to do with text ?
 34,have you read the text? it's very short and St/ Helena is rnentioned right at the beginning
 34,What is rnentioned
@@ -392,7 +373,6 @@ sequenceID,text
 38,2010
 38,"Show me your best. Hint: first 3 letters is jan. Try again, please."
 38,2010
-38,😕
 38,I think that answer is: january 2010:)
 38,Ask me another question ?
 38,Yeah.
@@ -401,7 +381,7 @@ sequenceID,text
 38,Next question ?
 38,What standard reported in january 2010?
 38,The standard
-38,Did you mean standard? My congratulations! Ask me or wait my new question 🌈
+38,Did you mean standard? My congratulations! Ask me or wait my new question 
 39,"Do you think you would like to work for the Polícia Judiciária ?
 "
 39,Hello! I hope you're doing well. I am doing fantastic today! Let me go through the article real quick and we will start talking about it.
@@ -476,7 +456,6 @@ sequenceID,text
 45,i don't know
 45,This is what happens when you don't like it.
 45,Norfolk Island?
-45,👍
 45,Niice :)
 45,Fake news
 45,wich one
@@ -508,7 +487,6 @@ sequenceID,text
 45,do you have a question to ask me?
 45,What is the second largest island of the territory?
 45,Norfolk Island
-45,😕
 45,I think that true answer is: phillip island:)
 45,okay
 45,Norfolk.
@@ -524,7 +502,7 @@ sequenceID,text
 <h1>Internal Server Error</h1>
 <p>The server encountered an internal error and was unable to complete your request.  Either the server is overloaded or there is an error in the application.</p>
 "
-46,you are done 🙂
+46,you are done 
 47,"Hi, haven't hear previously about this mdm"
 47,Do you have smth to say?
 47,"Next, please!"
@@ -735,7 +713,7 @@ sequenceID,text
 68,Hello! It's somehow connected to assia?
 68,"Hint: first 3 answer letters is ""nan"". Try again, please!"
 68,nanjing
-68,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+68,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 68,Where did deshin shekpa die ?
 68,I don't know
 68,Still incorrect :( Lets speak about something else...
@@ -776,7 +754,6 @@ sequenceID,text
 70,what is it about?
 70,Movie about nuclear fallout
 70,i think you're wrong
-70,😀
 71,What season was continue to loss users?
 71,season 12
 71,Good boy or girl!
@@ -890,7 +867,6 @@ sequenceID,text
 83,What prevents PAL games from being played on Japanese consoles?
 83,"Internally,"
 83,How can this be overcome?
-83,
 83,What is a console?
 83,lockout (CIC)
 83,Tell me about CIC.
@@ -908,7 +884,6 @@ sequenceID,text
 83,Stop searching every little anser in that small snippet!
 83,no .
 83,Who are you?
-83,
 83,What is your name?
 83,the
 84,"I'm not strong in biology, sory"
@@ -922,7 +897,7 @@ sequenceID,text
 84,Thanks you make me laugh too.
 84,Who are you?
 84,I am called Nameless.
-84,You parents have good sence of humor 🙂
+84,You parents have good sence of humor 
 84,Interesting gossip.
 84,What do you want to know about me?
 84,What do you like to do for fun?
@@ -983,7 +958,6 @@ sequenceID,text
 87,But there is a main topic. Could you name it?
 87,How did you hear about Nameless? .
 87,where is Cobden Bridge?
-87,
 87,Empty string as an answer is not a good solution.
 87,What is Emptystringasananswer?
 87,strange german word.
@@ -1117,11 +1091,9 @@ sequenceID,text
 98,you ?
 98,No. You
 98,"no , no , no , no , no , no , no , no , no ."
-98,👀
 98,what are you doing ?
 98,Not much
 98,"no , no , no , no , no , no , no , no , no ."
-98,🍥
 98,what are you doing ?
 98,Nothing
 98,no !
@@ -1381,10 +1353,10 @@ What is this article about?"
 121,"Hi friend, I dont really know. Tell me."
 121,"You can do better. Hint: first 3 answer letters is ""201""."
 121,2014
-121,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+121,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 121,How many barrels per day did canada produce in north america?
 121,"1,500,000"
-121,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+121,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 121,Where was it discovered in north america?
 121,2014
 121,Still incorrect :( Lets speak about something else...
@@ -1480,7 +1452,6 @@ What is this article about?"
 130,Good! Anything else..?
 130,that
 130,How are you?
-130,
 130,Hunting advocates who?
 130,into
 131,Привет
@@ -1540,7 +1511,6 @@ What is this article about?"
 137,Are you optimize logloss in your sureness probability score?
 137,Because then you never be completely sure
 138,Why were Han Chinese peasants banned from Manchuria?
-138,
 139,A chapel accessibly only by boat - sounds so romantic!
 140,hello
 140,:(
@@ -1772,7 +1742,7 @@ goodbye"
 162,In what year was the model constitution released?
 162,"Hi! It is a pleasure to speak with you. I will ask you a question in a second, please wait"
 162,1791
-162,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+162,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 162,In what country was 1791 in 1791?
 162,What caused Joseph ii's reforms to fail?
 162,"You can do better. Hint: first 3 answer letters is ""pol""."
@@ -2188,14 +2158,12 @@ goodbye"
 194,YES
 196,Ok
 197,What is Jersey Dutch?
-197,
 197,Try again
 197,stop !
 197,empty messaty doen't count
 197,as answer
 197,stop what?
 197,yes .
-197,
 197,what ?
 197,You are a number of python lines.
 198,"Hello, my friend  I hope you will enjoy this conversation . I will ask you a question in a second, please wait !"
@@ -2301,7 +2269,6 @@ goodbye"
 208,Hi
 208,"hi , how 'd your off back ?"
 208,off what?
-208,
 208,hi
 208,you are dead one
 208,yes?
@@ -2539,7 +2506,6 @@ How are you?"
 230,Hi dear
 230,ask me something
 230,Hi there!
-230,
 230,what is it  Grande Saline Bay?
 230,I don't know what it is.
 231,hello
@@ -2547,13 +2513,9 @@ How are you?"
 231,Let's talk about opium smuggling.
 231,i .
 231,How much smuggled opium entered China in 1838?
-231,
 231,When was the First Opium War?
-231,
 231,What is your name?
-231,
 231,Are you ok?
-231,
 232,"Do you think you would like to work for Indo-Aryan ?
 "
 232,Hello! I hope you're doing well. I am doing fantastic today! Let me go through the article real quick and we will start talking about it.
@@ -2929,7 +2891,7 @@ didn't sleep well"
 265,I don't know.
 265,are you a bot?
 265,"No, no, no, no, no, no, no, no, no."
-265,"yes, yes, yes, yes, yes, yes 😊"
+265,"yes, yes, yes, yes, yes, yes "
 266,What is limited by Congress?
 266,constitutionality of laws
 266,Exactly!

@@ -1,13 +1,13 @@
 import os
-from uti.utility import write_to_csv_file, deEmojify
+from uti.utility import write_to_csv_file
 from uti.utility import read_json
 from uti.utility import read_csv_todf
 
 
-class ConvAIChitChatParser:
+class cum_dog_Parser:
     def __init__(self, file):
         self.file = file
-        self.folder = "ConvAIChitChat"
+        self.folder = "cmu_dog"
         self.source_dir = "/home/chauncey/PycharmProjects/Parsing_Telegram_Chat_History/data/Chat/"+self.folder+"/" + self.file  # source file from chitchat
         self.synthesizer_folder = os.path.join("/home/chauncey/PycharmProjects/Parsing_Telegram_Chat_History/data/synthesizer_data/",self.folder)
         self.output_file_csv = os.path.join( self.synthesizer_folder, "test.csv")
@@ -24,15 +24,13 @@ class ConvAIChitChatParser:
         all_messages = [csv_columns]
         sequenceID = 1
 
-        for chat in data:
+        for id in data:
 
-            dialog = chat["thread"]
-            if dialog!=None:
-                for chitchat in dialog:
-                    text =deEmojify(chitchat["text"])
-                    if text =="":
-                        continue
-                    all_messages.append([sequenceID,str(text)])
+            dictionary = data[id]
+            history = dictionary["history"]
+            if history!=None:
+                for dic in history:
+                    all_messages.append([sequenceID,dic["text"]] )
             sequenceID+=1
 
         write_to_csv_file(self.output_file_csv, all_messages)
@@ -72,5 +70,5 @@ class ConvAIChitChatParser:
 
 # The main function, the entry point
 if __name__ == '__main__':
-    a_parser = ConvAIChitChatParser("test.json")
+    a_parser = cum_dog_Parser("test.json")
     a_parser.create_train_for_bert()

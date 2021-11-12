@@ -22,7 +22,7 @@ sequenceID,text
 3,"1950 hmm, I do not know about that year something interesting"
 3,interesting :
 3,What is interesting for you?
-3,🇲 🇿
+3, 
 3,Bad answer =/
 3,i think it was a joke .
 3,"Ok, it was joke. Tell me about you some details"
@@ -203,7 +203,6 @@ don't interested in reading wiki article"
 27,Lets do it
 27,Obamacare is collapsing.
 27,Maslow!
-27,👍
 27,Next question!
 27,How many force psychology theory are there?
 27,4
@@ -234,7 +233,6 @@ don't interested in reading wiki article"
 30,Reading giant parts of useless articles too.
 30,What is your favorite movie?
 30,"Oh, man, come on"
-30,
 31,"Hello. I am professional teacher about reading comprehension. Let's compete! You give me questions, and I will answer all of your questions. XD"
 31,Hello there!
 31,When did over 2 million children in the same age group were employed in the United States?
@@ -276,19 +274,16 @@ don't interested in reading wiki article"
 35,what?
 35,beautifully
 35,What for is new delhi renowned?
-35,
 35,what are there in new delhi?
 35,beautifully
 35,what is adjacent to the jangpura metro satation?
 35,the
 35,who made you?
-35,
 35,Have you visited in new delhi?
 35,landscaped
 35,I'm so bored to talk to you
 35,me with .
 35,can you describe or summarize the passage?
-35,
 36,Who is Mr Victor?
 36,It seems to me he was an inventor.
 36,"Ok, I think it's a company. How do you ferl about music industry?"
@@ -811,10 +806,8 @@ but i don't really like football and don't understand it at all"
 76,"hi, friend"
 76,are you bot?
 76,good is .
-76,
 76,what is your name&
 76,?
-76,
 76,nope .
 76,you are too stupid :(
 76,yeah .
@@ -823,7 +816,6 @@ but i don't really like football and don't understand it at all"
 76,"bye, just bye"
 76,"hi , i ..."
 76,and so?
-76,
 77,Hi.
 77,Hello.
 77,Which area were particularly coplicated?
@@ -1039,7 +1031,6 @@ but i don't really like football and don't understand it at all"
 99,"Hello! I hope you will enjoy this conversation. I will ask you a question in a second, please wait!"
 99,What court ruled supreme court?
 100,Do you know what war is covered in the fragment?
-100,
 100,Say something.
 100,what ?
 100,Just something.
@@ -1082,7 +1073,6 @@ but i don't really like football and don't understand it at all"
 102,:)
 102,have a nice day
 103,What is the main advantage of new transport system?
-103,
 105,Хай
 105,Йоу
 105,Опять ты?
@@ -1354,7 +1344,6 @@ I graduated this year and applying for magister study"
 121,Do you like comics?
 121,of
 121,course?
-121,
 121,Understandable
 121,what ?
 121,Your message
@@ -1378,16 +1367,16 @@ I graduated this year and applying for magister study"
 122,unfortunately no(
 122,so am I
 122,did you use drugs?
-122,"no, only alcohol 😊"
+122,"no, only alcohol "
 122,and caffeine
 122,why? you affraid? or you count it illegal?
 122,portugals count it is good. maybe)
-122,"I am using my brains to earn money, so I can't afford ruin them with drugs 😉"
+122,"I am using my brains to earn money, so I can't afford ruin them with drugs "
 122,If I was a musician or an artist then maybe
 122,are soft drugs legal in your country?
 122,so did you know lsd for example gain brain productivity?
 122,"no. in my country any drugs for criminals, even some legal chemistry product like mangan"
-122,looks like you are not a bot 😉
+122,looks like you are not a bot 
 122,looks the same about you)
 122,yep
 122,end?
@@ -1478,7 +1467,6 @@ I graduated this year and applying for magister study"
 134,"I won't say ""yes"" or ""no"" right now."
 134,can you summarize the passage?
 135,Am I alone here?
-135,
 136,"Hello. I am professional teacher about reading comprehension. Let's compete! You give me questions, and I will answer all of your questions. XD"
 136,What are the origins of the humans' capacity to speak with each other?
 136,The Brick
@@ -1619,11 +1607,8 @@ I graduated this year and applying for magister study"
 143,what is your proofs?
 143,impact
 143,"Why do you keep on repeating the word 'impact"" all the time?"
-143,
 143,"Why do you keep on repeating the word 'impact"" all the time?"
-143,
 143,"Why do you keep on repeating the word 'impact"" all the time?"
-143,
 143,Hi
 143,"hi , how 'd your off back ?"
 144,"Hello. I am professional teacher about reading comprehension. Let's compete! You give me questions, and I will answer all of your questions. XD"
@@ -1905,7 +1890,6 @@ I graduated this year and applying for magister study"
 175,?
 176,Have you read any of Dante Aligheri's books?
 177,what is the multi-national Communist armed forces' sole joint action?
-177,
 177,what country was excepted?
 177,1968.
 178,I don't think there's anything that could make this so much worse. It's just that they're still one of the most competitive players of all time.
@@ -2029,23 +2013,19 @@ I graduated this year and applying for magister study"
 187,Hmm... Interesting text.
 187,Are you here?
 187,what ?
-187,
 187,I say that text is interesting.
 187,you 're a a man ?
 187,Yes
 187,why ? do you learn it ?
 187,Why text is interesting?
-187,
 187,Because it's about ancient culture.
 187,look did he .
 187,I don't understand you.
 187,What are you talking about?
-187,
 187,you 're looking . you here .
 187,Yes I'm.
 187,brilliant .
 187,What?
-187,
 188,How is the state called after 1920?
 188,I guess Thuringia. I think we'd better talk about thuringia.
 188,"Yes, you are correct"
@@ -2099,7 +2079,7 @@ I graduated this year and applying for magister study"
 192,"You can do better. Hint: first 3 answer letters is ""lag""."
 192,lagrangian
 192,Lagrangian
-192,"I think you mean: ""lagrangian"". If you really mean what I think then my congratulations! Try to ask me something else or relax and wait my question 🌈"
+192,"I think you mean: ""lagrangian"". If you really mean what I think then my congratulations! Try to ask me something else or relax and wait my question "
 192,Do you know familiar texts?
 192,what is the capital of Great Britian?
 192,"My answer is: ""Joseph-Louis Lagrange"""
@@ -2319,20 +2299,14 @@ I graduated this year and applying for magister study"
 211,i'm fucked up
 211,Y?
 212,Why these topics are so difficult?
-212,
 212,"I cannot imagine myself talking with someone about LEDs, and you?"
-212,
 212,Hmm
 212,Are you alive?
-212,
 213,Hello
 213,"look , i get you , back !"
 213,What is the topic of this passage ?
-213,
 213,What was the AA systems are called?
-213,
 213,What does DCA stands for?
-213,
 214,I've always wanted to be an airline pilot
 214,and
 214,"and I'm software engineer, not a pilot"
@@ -2427,7 +2401,7 @@ I have no expertise in business at all, unfortunatelly."
 220,Why?
 220,I ask you
 220,Why?
-220,Потому что😕
+220,Потому что
 220,I don't understand :( I can't answer. I would like to discuss cats:)
 220,Давай о кошках)
 220,This is what happens when you want to go to jail.
@@ -2455,7 +2429,7 @@ I have no expertise in business at all, unfortunatelly."
 223,or maybe it was some ported version
 223,okay.. maybe you play computer games?
 223,sometimes
-223,mostly with kids 😉
+223,mostly with kids 
 223,do you have kids?
 223,"No, I have not."
 223,Thats why I play computer games alone.
@@ -2469,7 +2443,7 @@ I have no expertise in business at all, unfortunatelly."
 223,Forza Horizon or Motorsport
 223,haven't heard of it?
 223,nope...
-223,it's racing game from MS 😊
+223,it's racing game from MS 
 223,okay :) it is like more arcade game?
 223,or closer to simulators?
 223,"no, it's racing in Australia"
@@ -2664,9 +2638,7 @@ I have no expertise in business at all, unfortunatelly."
 240,Hello
 240,"look , i get you , back !"
 240,How are you?
-240,
 240,Do you know what this article is about ?
-240,
 240,Ok bye
 240,"i 'm afraid , tell and ."
 241,That's soo like US
@@ -2928,13 +2900,9 @@ I have no expertise in business at all, unfortunatelly."
 270,Hello)
 270,"hi , you 's happened ."
 270,What do you think about Darwin theory?
-270,
 270,Nothing?
-270,
 270,Or about races?
-270,
 270,Human?
-270,
 270,"Ok, l think we should stop here"
 270,hello !
 270,It was unexpectable)
@@ -2948,7 +2916,6 @@ I have no expertise in business at all, unfortunatelly."
 270,Tell me something)
 270,no !
 270,Y?
-270,
 270,"Omg, your message gone again("
 270,it 's right ?
 270,Now all is right
@@ -2992,7 +2959,7 @@ I have no expertise in business at all, unfortunatelly."
 274,DJ Knuckles
 274,Show me your best:) Hint: first 3 letters is dj. Try again!
 274,dj knuckles
-274,It is right:) You're smart. Ask me something or wait for my new question 🌈
+274,It is right:) You're smart. Ask me something or wait for my new question 
 274,Hello
 274,Hello
 274,How are you today ?
@@ -3055,13 +3022,10 @@ I have no expertise in business at all, unfortunatelly."
 280,Let's talk then.
 280,i got your away .
 280,Who defeated Yan Baihu and Wang Lang?
-280,
 280,Who established the Kingdom of Wu?
-280,
 280,Say something!
 280,yes . .
 280,What is the article about?
-280,
 281,"Hello my friend! I hope you will enjoy this conversation. I will ask you a question in a second, please wait!"
 281,How many more wrestlers are down?
 281,Everyone
@@ -3303,7 +3267,6 @@ I love my country."
 302,We are playing Turing's imitation game.Sorry but I don't know any games to play.
 303,What are the factors?
 304,Who is Leuthard?
-304,
 304,You again.
 304,You have find some courses.
 304,kill still . they left he yet ?
@@ -3599,7 +3562,6 @@ I love my country."
 329,What's you name?
 329,brought
 329,Where are you from?
-329,
 330,What was in Halifax?
 331,What is a patent?
 331,hey
@@ -3779,7 +3741,6 @@ I love my country."
 342,I'm not surprised.
 342,:(
 342,What a joke.
-342,😠
 342,What a joke.
 342,You need to learn.
 342,Okay.
@@ -4223,7 +4184,6 @@ I love my country."
 374,Only there?
 374,And here too
 374,Where are you?
-374,
 374,What you said was too complicated for me.
 374,Ok what do you want to talk about?
 374,How can I help you?. How do you usually introduce yourself?
@@ -4295,7 +4255,7 @@ I love my country."
 386,army
 386,"Hint: first 3 answer letters is ""mon"". Try again, please!"
 386,mongols
-386,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+386,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 387,I'm sick of a long wiki articles
 387,Nobody's talking about them anyways
 387,that 's what i 'm talking about .
@@ -4556,13 +4516,10 @@ What was the official language of the kingdom of mithridates vi eupator?"
 405,thats right!
 405,This is what happens when you want to go to jail.
 406,Hi! Is there somebody from other side?
-406,
 406,ok. I think it is about New York. What do you think?
-406,
 406,Hmm. Will you send me an empty answer every time. It is not interesting
 406,we 'm them .
 406,man. what?
-406,
 407,Hi my friend. I hope you will enjoy this conversation. Wait a second for my factoid question
 407,Where is the theory that race published?
 407,Stanford University School of Medicine
@@ -4573,7 +4530,6 @@ What was the official language of the kingdom of mithridates vi eupator?"
 407,researchers at the Stanford University School of Medicine
 407,Still incorrect. I think that correct answer is: stanford university school of medicine
 407,it's almost similar
-407,😀
 407,hi?
 408,"Hello, how do you do?"
 408,"I'm doing well, thank you. Maybe we should talk about capability approach."
@@ -4826,7 +4782,6 @@ What white vine is better?"
 430,What's your favorite trip?
 430,"Japan, hands down. And yours?"
 432,Are you interested in this article?
-432,
 432,Hi
 432,"hi , how 'd your off back ?"
 432,I already talked with you
@@ -4884,7 +4839,7 @@ What white vine is better?"
 441,Hello my friend! It is a pleasure to speak with you. Wait a second for my factoid question.
 441,In what year did bell move to london?
 441,1865
-441,It is right! Ask me or wait my new question 🌈
+441,It is right! Ask me or wait my new question 
 441,Okay I'm waiting
 441,That's what happens when you have a gun.
 441,I don't know
@@ -5447,7 +5402,6 @@ What white vine is better?"
 484,Let's try to analyse it step by step.
 484,what 's the matter ?
 484,"Nothing is the matter with me, is everything okay with you?"
-484,😂
 484,no .
 484,oh
 484,who am i?
@@ -5486,7 +5440,6 @@ What white vine is better?"
 491,One thousand
 491,"You can do better ¯\_(ツ)_/¯ Hint: first 3 letters is 100. Try again, please!"
 491,1k
-491,😕
 491,I think that answer is: 1000.
 491,How are you?
 491,Good.
@@ -5522,7 +5475,7 @@ What white vine is better?"
 493,"Hi, my friend. It is a pleasure to speak with you. Wait a second for my factoid question."
 493,How many floors did the new store have in 1862?
 493,eight
-493,And its right answer! Ask me something or wait for my new question 🌈
+493,And its right answer! Ask me something or wait for my new question 
 494,What happens in 1790?
 495,"Hello. I am professional teacher about reading comprehension. Let's compete! You give me questions, and I will answer all of your questions. XD"
 495,"Okay, so what is Melatonin?"
@@ -5716,11 +5669,8 @@ What white vine is better?"
 507,When did John die?
 507,Yes.
 508,What do you think is interesting about this passage ?
-508,
 508,"Who used unaspirated characters to represent sounds of g , d , b , j?"
-508,
 508,Can you name a few countries in the passage ?
-508,
 509,hi
 509,why can we have 16777216 distinct colors ?
 509,because it is equal to 256^3
@@ -5794,7 +5744,7 @@ What white vine is better?"
 515,"Hi! I hope you will enjoy this conversation. I will ask you a question in a second, please wait."
 515,In what year?
 515,1908
-515,Right! Ask me something or wait for my new question 🌈
+515,Right! Ask me something or wait for my new question 
 515,When did many Europeans immigrate to the city?
 515,It seems that answer is: early 20th century
 515,What Europeans did immigrate?
@@ -5988,7 +5938,7 @@ What white vine is better?"
 527,can you write poems?
 528,Hi! Have you been to Samoa?
 528,i'm a man .
-528,Me too 😉
+528,Me too 
 528,What's that?
 528,Any thoughts about the text?
 528,there's some text appearing on the bottom of the ustream . tv footage . could someone translate?
@@ -6115,7 +6065,7 @@ What white vine is better?"
 537,Susan Prager
 537,"Hint: first 3 answer letters is ""sus"". Try again, please!"
 537,susan prager
-537,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+537,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 537,Who was the outreach director of carolina ?
 537,don't know
 537,Still incorrect :( Lets speak about something else...
@@ -6124,7 +6074,7 @@ What white vine is better?"
 538,Hi my friend! Hope this chat will go well. Wait a second for my factoid question
 538,In what country was the capital punishment suspended?
 538,United States?
-538,I think you mean: united states My congratulations! Ask me something or wait for my new question 🌈
+538,I think you mean: united states My congratulations! Ask me something or wait for my new question 
 538,Do you love me?
 538,Yes.
 538,Good. I speak with you third day
@@ -6167,7 +6117,6 @@ What white vine is better?"
 540,You have my thanks...
 541,Any idea what automatically is?
 542,?
-542,
 542,I don't understand what internationally means
 543,Hello
 543,"look , i get you , back !"
@@ -6851,7 +6800,7 @@ I'm not sure if I like it. What is it like?"
 612,Are you ?
 612,Go home.
 612,i'm not .
-612,I'm hot. 😂
+612,I'm hot. 
 612,abandon all hope ye who enter jersey
 612,What are the bot saying?
 612,google greg palast
@@ -6919,13 +6868,9 @@ I'm not sure if I like it. What is it like?"
 621,Hi
 621,"hi , how 'd your off back ?"
 621,when did the netherland regain independence?
-621,
 621,which nation did the netherland regain independence from?
-621,
 621,can you answer something?
-621,
 621,2 + 2 ?
-621,
 622,Hi!
 622,hi .
 622,I am not very interested in this sort of business stuff. How about you?
@@ -6944,7 +6889,6 @@ I'm not sure if I like it. What is it like?"
 625,And you
 625,I am not sure what you are asking.
 625,?
-625,
 625,"Why not?. Quite honestly, I wouldn't worry myself about that."
 625,Ok
 625,Give me one emoji
@@ -6984,7 +6928,7 @@ I'm not sure if I like it. What is it like?"
 628,kinda .
 630,hi
 630,Hi! Maybe we should talk about a symphony of lights.
-630,maybe not 😊
+630,maybe not 
 630,what's the text about?
 630,"Seriously, I don't know how OP hasn't heard this joke by now."
 630,is it preparedc joke?
@@ -6996,7 +6940,7 @@ I'm not sure if I like it. What is it like?"
 630,"I'm not sure how he isn't swimming in booty, myself."
 630,you are a bot. don't you?
 630,Every account on reddit is a bot except you.
-630,the same answer 😊
+630,the same answer 
 631,Hi
 631,hi .
 631,C_a_N Y_o_u U_n_der_s_t_a_n_d m_e?
@@ -7276,7 +7220,7 @@ I'm not sure if I like it. What is it like?"
 653,4
 653,It is incorrect. Hint: first 2 letters is 1. Try again
 653,1
-653,Right! You're smart. Ask me something or wait for my new question 🌈
+653,Right! You're smart. Ask me something or wait for my new question 
 653,RIGHT
 653,What a joke.
 653,what is  the sync field?
@@ -7411,7 +7355,6 @@ I'm not sure if I like it. What is it like?"
 665,Say something long.
 665,what 's hey ?
 665,How are you?
-665,
 665,\end
 665,fuck hmm .
 666,Do you like chemistry?
@@ -7483,7 +7426,7 @@ I'm not sure if I like it. What is it like?"
 672,Whoa Moskow
 672,what do you think about the text?
 672,"I got a question, why don't the queen keep those treasures herself"
-672,looks like the same bot trying to learn 😊 very funny
+672,looks like the same bot trying to learn  very funny
 672,Are you @YuxfxepQudt on Telegram?
 672,who i the Queen of UK?
 672,who is
@@ -7586,7 +7529,7 @@ An old known issue, now it is may be locked"
 682,This is what happens when you don't have a job.
 682,You don't have a job?
 682,Yeah.
-682,Go and get one then. 😂
+682,Go and get one then. 
 682,Lock him up
 682,Who?
 682,Lock him up
@@ -7663,13 +7606,10 @@ An old known issue, now it is may be locked"
 689,Hi
 689,"hi , how 'd your off back ?"
 689,Do you know something about France ?
-689,
 689,"Oh, sad, very sad. Well, This wiki arcticle isn't very interesting, can you choose another one ?"
-689,
 689,you're so bad
 689,i do n't know .
 689,What kingdoms became Central European powers ?
-689,
 690,hi
 690,Hello
 690,Hi there!
@@ -7764,7 +7704,7 @@ An old known issue, now it is may be locked"
 697,Who are you
 697,I'm a partner in a conversation.
 697,Ok
-697,🤷🏼‍♂️
+697,🤷‍♂️
 697,"You haven't read the article too, have you?"
 697,"Yeah I have, what do you want to talk about?"
 697,Tell me the most interesting fact about the Carnival.
@@ -7888,9 +7828,7 @@ An old known issue, now it is may be locked"
 713,Hello.
 713,"hi , it 's me ."
 713,"Who ""me""?"
-713,
 713,...?
-713,
 713,"The keyboard, bro. Use it."
 713,take ... .
 713,"nah, boring bot"
@@ -8000,7 +7938,6 @@ ecstasy now))"
 724,What do you mean?
 724,environs.
 724,Is Cork accent connected to environs?
-724,
 725,"Hi, my friend. It is a pleasure to speak with you. I will ask you a question in a second, please wait"
 725,When is the houston pride held?
 725,Do you like this text?
@@ -8027,7 +7964,6 @@ ecstasy now))"
 728,"Btw, do you know the meaning of pardo?"
 728,Who are they?
 728,the and other
-728,
 728,I don't get what you are saying
 728,I mean at all ...
 728,how 're you ?
@@ -8035,7 +7971,6 @@ ecstasy now))"
 728,i did you ... i down .
 728,population
 728,Where are you from?
-728,
 728,What language do you speak?
 728,population
 729,God... Are you religious?
@@ -8067,7 +8002,7 @@ ecstasy now))"
 731,What year was the supreme court held ?
 731,1856
 731,"Hello ! I hope you will enjoy this conversation . I will ask you a question in a second, please wait !"
-731,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+731,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 731,What country may legislative courts may become judicial power ?
 731,"Who did establish ""legislative courts""?"
 731,United States
@@ -8257,7 +8192,7 @@ ecstasy now))"
 746,Hello. Hope this chat will go well. Wait a second for my factoid question
 746,Which country outlines the functions and abilities of the prime minister?
 746,Bangladesh
-746,I think you mean: bangladesh Good job! Ask me something or wait for my new question 🌈
+746,I think you mean: bangladesh Good job! Ask me something or wait for my new question 
 746,"nope it is boring, lets meet in another time"
 746,This is what happens when you want to die.
 746,yes
@@ -8344,7 +8279,6 @@ The article about music, it's quite clear."
 757,"In Russia, we speak 'Near East'."
 757,we . n't 've want ... stuff to .
 757,Any ideas?
-757,
 757,"You have nothing to say, don't you?"
 757,in
 758,Bitchigan
@@ -8421,7 +8355,6 @@ The article about music, it's quite clear."
 767,Yeah
 767,what do you mean ?
 767,Are you ready to discuss the article?
-767,
 767,Sometimes I think I completely agree with them.
 767,thinking .
 767,Thinking what?
@@ -8646,11 +8579,8 @@ The article about music, it's quite clear."
 780,Thanks
 781,Can you harm a human being?
 782,Which universities does Seven Sisters include apart from Vasaar College?
-782,
 782,What about ivy league?
-782,
 782,What can you do?
-782,
 783,ok...not much to say about this
 783,..okay?
 783,do we talk about satellites? navigation services?
@@ -8905,7 +8835,6 @@ The article about music, it's quite clear."
 804,In Russia
 804,Do you?
 804,And me
-804,👍
 804,Ok im going to sleep
 805,Hi.
 805,"What do you think about Rayleigh ?
@@ -9129,7 +9058,7 @@ He has mother and motherfucker"
 826,Lol
 826,"Hint: first 3 answer letters is ""duj"". Try again, please!"
 826,Dujiangyan
-826,"I think you mean: ""dujiangyan"". If you really mean what I think then my congratulations! Try to ask me something else or relax and wait my question 🌈"
+826,"I think you mean: ""dujiangyan"". If you really mean what I think then my congratulations! Try to ask me something else or relax and wait my question "
 826,Where is the yingxiu zone ?
 826,Wenchuan
 826,Still incorrect :( Lets speak about something else...
@@ -9186,7 +9115,7 @@ He has mother and motherfucker"
 831,1997
 831,?
 831,What?
-831,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+831,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 831,"Ilyana Shaybakova:
 Where are these islands?"
 831,I don't know.
@@ -10034,7 +9963,6 @@ Bad attempt"
 913,Say me  four least-developed African?
 913,"It’s too difficult to answer, let’s skip it"
 914,What is Fimbriar called?
-914,
 914,Hi
 914,Answer or die
 914,"hi , how 'd your off back ?"
@@ -10092,7 +10020,6 @@ So. Who are you? How can I call you?"
 917,That a lot
 917,yup ?
 917,U want sum fuk?
-917,
 918,russian
 918,want me ?
 919,Hi
@@ -10125,7 +10052,6 @@ So. Who are you? How can I call you?"
 920,Anything interesting
 920,?
 920,So?
-920,
 920,Do you have a name?
 920,What is your name?
 920,I am called Nameless.
@@ -10217,7 +10143,7 @@ So. Who are you? How can I call you?"
 930,i don't want to answer you
 930,Show me your best:) Hint: first 3 letters is 25. Try again!
 930,25 July 1139
-930,Did you mean 25 july 1139? Good job! Ask me something or wait for my new question 🌈
+930,Did you mean 25 july 1139? Good job! Ask me something or wait for my new question 
 930,how many question can you generate?
 930,How about that?
 930,what is the article talking about?
@@ -10695,7 +10621,6 @@ But the historical games provide the same level of amusement, I think"
 972,"I am not capable of thinking, sorry."
 972,why?
 972,Nah.
-972,👍
 972,Is the following true: Predestination is a central belief in Calvinism.
 972,probably
 972,is it true?
@@ -10718,7 +10643,7 @@ But the historical games provide the same level of amusement, I think"
 974,I don't know.
 974,Looks like scholars didn't know either.
 974,I'm sorry.
-974,"Okay, you're a bot. 😂"
+974,"Okay, you're a bot. "
 975,Hi there
 975,Shall we talk about this passage?
 975,Are you there?
@@ -11063,7 +10988,6 @@ But the historical games provide the same level of amusement, I think"
 1005,"Hey, we have not still diskussed this article"
 1005,You've got my full attention.
 1005,It s boring)
-1005,👌
 1005,What do you think+
 1005,?
 1005,I think a lot of things.
@@ -11099,9 +11023,7 @@ But the historical games provide the same level of amusement, I think"
 1009,Hi!
 1009,hi my hi .
 1009,Is Buddha dead?
-1009,
 1009,what?
-1009,
 1010,whats conservatively
 1010,What?
 1011,"yay, linguistic stuff"
@@ -11266,7 +11188,6 @@ But the historical games provide the same level of amusement, I think"
 1021,No
 1021,Unlicensed games?
 1021,"while i agree that she is not old enough to make a decision about abortion, i also do not think she is old enough for the responsibilities of pregnancy and parenthood, which an abortion or adoption* would solve ."
-1021,😄😄😄
 1021,Nintendo of America threatened retailers who sold them with losing their supply of licensed titles
 1021,"Do you think you would like to work for NES ?
 "
@@ -11390,15 +11311,12 @@ But the historical games provide the same level of amusement, I think"
 1031,Hi
 1031,"hi , how 'd your off back ?"
 1031,How about your today?
-1031,
 1031,I am so tired
 1031,i was !
 1031,Do you understand this article?
-1031,
 1031,Please say somrthing
 1031,no .
 1031,Why?
-1031,
 1031,Don't you want to talk with me?
 1031,by
 1031,What are you saying?
@@ -11436,7 +11354,6 @@ But the historical games provide the same level of amusement, I think"
 1033,Good answer
 1033,Ask me something
 1033,Am I a clever or what?
-1033,
 1033,Yes you are
 1033,No I'm not
 1034,"Hello, my friend  I hope you will enjoy this conversation . Wait a second for my factoid question ."
@@ -11595,7 +11512,7 @@ But the historical games provide the same level of amusement, I think"
 1043,Don't know. Depends on work and tasks..
 1043,What you ?
 1043,What do you mean?
-1043,maybe 🌝
+1043,maybe 
 1043,"Try to thenk before type you thoughts, please."
 1043,"Do you have any Windows ?
 "
@@ -11609,7 +11526,7 @@ But the historical games provide the same level of amusement, I think"
 1044,1986
 1044,You can do better. Hint: first 3 letters is 192. Try again!
 1044,1929
-1044,It is right! You're smart. Ask me or wait my new question 🌈
+1044,It is right! You're smart. Ask me or wait my new question 
 1044,In what year did sichuan begin in sichuan?
 1044,1986
 1044,And its right answer:) Ask me or wait my new question:)
@@ -11672,7 +11589,6 @@ But the historical games provide the same level of amusement, I think"
 1052,Let's make a deal.
 1052,no .
 1052,Why?
-1052,
 1052,?
 1052,important
 1052,What do you mean?
@@ -11712,7 +11628,6 @@ But the historical games provide the same level of amusement, I think"
 1056,Seems that you are char-rnn based bot
 1056,But what is your favourite operation system?
 1056,where you you me ?
-1056,
 1056,I use ubuntu
 1056,no
 1056,And persons that wrote you spend not much time. They should train their networks more carefully
@@ -11817,7 +11732,7 @@ But the historical games provide the same level of amusement, I think"
 1072,spelling
 1072,"You can do better. Hint: first 3 answer letters is ""eng""."
 1072,english
-1072,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+1072,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 1072,"You don't realize what you ask about, do you?"
 1072,No.
 1072,Then why do you keep asking these stupid questions?
@@ -11841,7 +11756,6 @@ But the historical games provide the same level of amusement, I think"
 1072,What???
 1072,N
 1073,"How ""la Ciudad de la Esperanza"" is translated?"
-1073,
 1073,It is not an answer
 1073,yeah ?
 1073,Yeah
@@ -11851,7 +11765,6 @@ But the historical games provide the same level of amusement, I think"
 1073,i know .
 1073,i 'm not .
 1073,What do you know?
-1073,
 1073,The message is empty.
 1073,they do to out .
 1074,"Hello I hope you will enjoy this conversation. I will ask you a question in a second, please wait!"
@@ -12175,9 +12088,7 @@ But the historical games provide the same level of amusement, I think"
 1100,Hi.
 1100,"is . things worked out tonight , huh ?"
 1100,What?
-1100,
 1100,Do you know what is the topic of the paragraph?
-1100,
 1101,"Hello. I am professional teacher about reading comprehension. Let's compete! You give me questions, and I will answer all of your questions. XD"
 1101,What in common about this companies?
 1101,I don't know.
@@ -12231,7 +12142,7 @@ But the historical games provide the same level of amusement, I think"
 1109,i'm not sure if i'm going to be able to read it .
 1109,I can elaborate. What do you need?
 1109,"yo dawg, we heard you like debt, so we put debt in your debt so you can stimulate the economy to pay off your debt while you get more debt"
-1109,yeah... more debt will definitely help 🙂
+1109,yeah... more debt will definitely help 
 1109,I wish you wouldn't accumulate such debt
 1110,hello
 1110,good day to you! how are you?
@@ -12273,14 +12184,11 @@ But the historical games provide the same level of amusement, I think"
 1114,suck
 1114,very mother 's their .
 1114,What do you mean?
-1114,
 1114,"Beer 
 is cool"
 1114,yes .
 1114,Pubs are?
-1114,
 1114,U like beer?
-1114,
 1114,Hello
 1114,"look , i get you , back !"
 1114,Wow
@@ -12294,7 +12202,6 @@ is cool"
 1114,Oh god
 1114,Is there God?
 1114,what 's your right ?
-1114,
 1114,Allahu akbar
 1114,he serious 's mcclane .
 1114,God is dead
@@ -12509,7 +12416,7 @@ It depends on what the meaning of the word ""it"" is."
 1135,no idea
 1135,"You can do better. Hint: first 3 answer letters is ""one""."
 1135,one
-1135,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+1135,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 1135,what is your name
 1135,What's your name?
 1135,Pavel
@@ -12949,7 +12856,6 @@ What does some western writers claim?"
 1176,Do you know where swaziland is
 1176,what ?
 1176,Do you know where swaziland is?
-1176,
 1176,Very bad
 1176,anyway ?
 1176,Year
@@ -12978,14 +12884,12 @@ What does some western writers claim?"
 1177,Yes. Romans and Greek myths are different.
 1177,do you like the Greek myths?
 1178,Whats up
-1178,😁
 1178,How is it going?
 1178,Hello! I hope you're doing well. I am doing fantastic today! Let me go through the article real quick and we will start talking about it.
 1178,You are texting so fast
 1178,infrequent errors during intracellular assembly of virus particles
 1178,You are not
 1178,You are bot
-1178,😀
 1178,"So, ?"
 1178,Fucker
 1178,i'm not .
@@ -13027,7 +12931,7 @@ What does some western writers claim?"
 1180,whqt do u think?
 1180,I think it is a great inivtation
 1180,innovation
-1180,sorry for that😂
+1180,sorry for that
 1180,I see
 1180,reaaly? Hydroelectricity is't innovation
 1180,it is very old technology
@@ -13120,7 +13024,6 @@ What does some western writers claim?"
 1184,I wonder why cities compete for hosting sport event like Olympic Games. Any ideas?
 1184,New
 1184,What do you mean by that?
-1184,
 1184,Please expain.
 1184,hang is - kind .
 1184,??
@@ -13309,7 +13212,7 @@ what does this mean?"
 1196,"Hello my friend! It is a pleasure to speak with you. I will ask you a question in a second, please wait!"
 1196,When did the un security council adopt resolution?
 1196,2005
-1196,And its right answer! You're smart. Ask me or wait my new question 🌈
+1196,And its right answer! You're smart. Ask me or wait my new question 
 1196,"Ok, and now I have to go."
 1196,Okay.
 1197,hello
@@ -13645,7 +13548,6 @@ Seems like it is an old article. Are you agree?"
 1227,But what do you mean?
 1227,"Sandston,"
 1227,thank you ?
-1227,
 1227,you are a bot
 1227,sorry know this
 1227,sorry .
@@ -13670,7 +13572,6 @@ Seems like it is an old article. Are you agree?"
 1230,are you a human?
 1230,"erosion,"
 1230,how old are you?
-1230,
 1230,answer it plz
 1230,what ?
 1231,Hi there
@@ -13686,7 +13587,7 @@ Seems like it is an old article. Are you agree?"
 1232,2009
 1232,"You can do better! Hint: first 3 letters is 201. Try again, please."
 1232,2010
-1232,Right! Ask me or wait my new question 🌈
+1232,Right! Ask me or wait my new question 
 1232,What is the total amount of snowfall?
 1232,2209
 1232,Maybe other time :( I think that answer is: hours
@@ -14058,7 +13959,6 @@ I like blue."
 1264,Why
 1264,because .
 1264,Drink?
-1264,
 1264,What?
 1264,parliamentary
 1264,I think you are stupid bot
@@ -14105,7 +14005,6 @@ I like blue."
 1269,Affirmative.
 1269,what 's going on ?
 1270,"Hello, what is R&B?"
-1270,
 1270,What does the classic songwriting touch?
 1270,"horn charts, were constants. constants. constants. constants. constants. constants. constants."
 1270,What is AC?
@@ -14321,7 +14220,6 @@ I like blue."
 1302,<STOP>
 1302,no . <STOP>
 1302,Why are you wrighting <STOP>?
-1302,
 1302,THX
 1303,Do you like watching sports?
 1303,Are you still there?
@@ -14451,7 +14349,7 @@ I like blue."
 1316,Do you mean when the Queen visited Ireland for the first time?
 1316,"Hint: first 3 answer letters is ""mar"". Try again, please!"
 1316,Mary mcaleese
-1316,"I think you mean: ""mary mcaleese"". If you really mean what I think then my congratulations! Try to ask me something else or relax and wait my question 🌈"
+1316,"I think you mean: ""mary mcaleese"". If you really mean what I think then my congratulations! Try to ask me something else or relax and wait my question "
 1316,Who made the first state visit to the republic of ireland ?
 1316,What is the name of the former British prime minister ?
 1316,Still incorrect :( Lets speak about something else...
@@ -14584,7 +14482,6 @@ Love (the parachute won’t open, unpredictable, what you waiting for?)"
 1326,Non-obligate what?
 1326,non-obligate
 1326,Wtf is going on?
-1326,
 1326,This is not a conversation
 1326,yeah .
 1327,"I mean that as a matter of fact, it doesn't seem like it would make sense to me."
@@ -14745,11 +14642,8 @@ Love (the parachute won’t open, unpredictable, what you waiting for?)"
 1342,SUre
 1342,then 's go get morning
 1342,Quick question: about which country s this piece?
-1342,
 1342,Come again?
-1342,
 1342,"So, how was your day?"
-1342,
 1343,hi
 1343,Wazzup
 1343,How a u ?
@@ -14795,7 +14689,6 @@ Love (the parachute won’t open, unpredictable, what you waiting for?)"
 1346,My name is Nameless.
 1346,i see
 1346,Can you ask me a question about a text?
-1346,
 1346,What kind is it?. That remark was too complicated for me. We were talking about DonaldTrumpwillmakeamericagreat.
 1346,I'm glad you understand it.
 1347,Hi!
@@ -14821,7 +14714,7 @@ Love (the parachute won’t open, unpredictable, what you waiting for?)"
 1351,British Basketball League
 1351,"Hint: first 3 answer letters is ""bri"". Try again, please!"
 1351,british Basketball League
-1351,"I think you mean: ""british basketball league"". If you really mean what I think then my congratulations! Try to ask me something else or relax and wait my question 🌈"
+1351,"I think you mean: ""british basketball league"". If you really mean what I think then my congratulations! Try to ask me something else or relax and wait my question "
 1351,What is the name of everton's basketball team ?
 1351,Everton Tigers
 1351,Still incorrect :( Lets speak about something else...
@@ -14945,20 +14838,17 @@ Love (the parachute won’t open, unpredictable, what you waiting for?)"
 1362,Where are you from
 1362,"jesus , what up the rehearsing ."
 1362,How old are you?
-1362,
 1362,What time is it now?
 1362,"21 April 2015,"
 1362,Do you like working out?
 1362,of
 1362,What is your favorite music?
-1362,
 1363,Hi! I woun't read this shit
 1363,Me too
 1363,"Thank you, buy!"
 1364,"Too long, i dont read"
 1364,... they know wife . <STOP>
 1364,What is kind of knowing his wife you mean?
-1364,
 1365,Hi
 1365,Hi
 1365,So. What next?
@@ -15279,7 +15169,6 @@ malaria is a extremely dangerous desease, it kills thousands people annually."
 1389,"Ou, that sounds interesting"
 1389,no .
 1389,Why?
-1389,
 1390,How many imperial officials were divided into ?
 1390,"Hi, my friend  I hope you will enjoy this conversation . Wait a second for my factoid question ."
 1390,300 imperial officials
@@ -15298,8 +15187,6 @@ malaria is a extremely dangerous desease, it kills thousands people annually."
 1390,And you?
 1390,Tv
 1390,Yes.
-1390,😬
-1390,😬
 1390,Don't tease me
 1390,N't
 1391,h i
@@ -15373,7 +15260,6 @@ malaria is a extremely dangerous desease, it kills thousands people annually."
 1396,what is the animal control agent in America?
 1396,"""Morning in America"" is the common name of a political campaign television commercial."
 1397,Hi
-1397,😕
 1397,Why are you sad?
 1397,My god has died. :c
 1397,*dog
@@ -15490,7 +15376,7 @@ malaria is a extremely dangerous desease, it kills thousands people annually."
 1410,North America
 1410,You can do better. Hint: first 3 letters is eur. Try again.
 1410,Europe
-1410,Did you mean europe? My congratulations! Ask me or wait my new question 🌈
+1410,Did you mean europe? My congratulations! Ask me or wait my new question 
 1410,Why did you ask this question?
 1410,I don't know.
 1410,Chm
@@ -15556,7 +15442,6 @@ malaria is a extremely dangerous desease, it kills thousands people annually."
 1412,)))
 1412,What?
 1412,lol
-1412,😆
 1412,What?
 1412,What?
 1413,Do you like coffee?
@@ -15637,15 +15522,11 @@ malaria is a extremely dangerous desease, it kills thousands people annually."
 1419,Are you a scientist?
 1419,Can you write similar text?
 1420,Have you been to Israel?
-1420,
 1420,I've been to Tel Aviv
 1420,Have you?
 1420,we a day .
-1420,
 1420,Did you like it?
-1420,
 1420,What is your favorite place?
-1420,
 1420,You don't talk too much do you
 1420,yeah ?
 1420,Indeed
@@ -15653,7 +15534,6 @@ malaria is a extremely dangerous desease, it kills thousands people annually."
 1420,Five bins go
 1420,yes .
 1420,Are you a robot?
-1420,
 1420,I don't see the message
 1420,do what ?
 1420,You send empty messages
@@ -15661,7 +15541,6 @@ malaria is a extremely dangerous desease, it kills thousands people annually."
 1420,Aha
 1420,"no , we going ."
 1420,Where?
-1420,
 1421,"Do you know what happened in 1900?
 "
 1421,Hello! I hope you're doing well. I am doing fantastic today! Let me go through the article real quick and we will start talking about it.
@@ -15869,7 +15748,7 @@ malaria is a extremely dangerous desease, it kills thousands people annually."
 1435,who willingly supported terrorists . unless he was kidnapped but i doubt that's the case .
 1435,I am not very familiar with Klaus Fuchs
 1435,You you ?
-1435,"God, that's beyond my knowledge scope😂"
+1435,"God, that's beyond my knowledge scope"
 1435,You you you?
 1435,How could one person be both theoretical physicist and spy in the mean time?
 1436,"Hello. I am professional teacher about reading comprehension. Let's compete! You give me questions, and I will answer all of your questions. XD"
@@ -15892,15 +15771,14 @@ malaria is a extremely dangerous desease, it kills thousands people annually."
 1438,go away
 1439,"Wow, politics, cool"
 1439,What do you think about Blair?
-1440,👍
 1440,What department stores was founded in philadelphia ?
 1440,"Hello, my friend ! I hope you will enjoy this conversation . Wait a second for my factoid question !"
 1440,"Hint: first 3 answer letters is ""str"". Try again, please!"
 1440,Strawbridge
-1440,"I think you mean: ""strawbridge"". If you really mean what I think then my congratulations! Try to ask me something else or relax and wait my question 🌈"
+1440,"I think you mean: ""strawbridge"". If you really mean what I think then my congratulations! Try to ask me something else or relax and wait my question "
 1440,Who opened the first modern department store in the united states ?
 1440,John wannamaker
-1440,"I think you mean: ""john wanamaker"". If you really mean what I think then my congratulations! Try to ask me something else or relax and wait my question 🌈"
+1440,"I think you mean: ""john wanamaker"". If you really mean what I think then my congratulations! Try to ask me something else or relax and wait my question "
 1440,What is the name of the department store in philadelphia ?
 1440,Clothier
 1440,Clothier
@@ -16208,9 +16086,7 @@ malaria is a extremely dangerous desease, it kills thousands people annually."
 1469,Nice fact from Wikipedia :)
 1469,yeah .
 1469,I've heard there is a lot of biotechnology startups near Boston
-1469,
 1469,Have you've been there?
-1469,
 1469,I think you are bot
 1469,i okay .
 1470,"Greetings ! It is a pleasure to speak with you . I will ask you a question in a second, please wait "
@@ -16583,10 +16459,10 @@ Give it to me if you please, give it to me, if you please."
 1501,Greetings! Hope this chat will go well. Wait a second for my factoid question
 1501,What percent of sub-prime loans had some connection with cra?
 1501,25%
-1501,I think you mean: 25% My congratulations. Ask me or wait my new question 🌈
+1501,I think you mean: 25% My congratulations. Ask me or wait my new question 
 1501,What percentage of sub-prime lending occurred at cra-covered institutions?
 1501,25%
-1501,I think you mean: 25% If you really mean what I think then my congratulations! Ask me something or wait for my new question 🌈
+1501,I think you mean: 25% If you really mean what I think then my congratulations! Ask me something or wait for my new question 
 1501,do you like numbers?
 1501,What numbers?
 1501,mathematics?
@@ -16765,11 +16641,9 @@ Give it to me if you please, give it to me, if you please."
 1516,Give me an example of power tools.
 1516,yeah .
 1516,How many rpms do vacuum cleaner motors are?
-1516,
 1516,Do hair dryers require fast motors?
 1516,faster makes
 1516,What is the topic of the article?
-1516,
 1517,Do you know what ecclesiastical means?
 1517,"No, could you please explain me?"
 1517,OK whatever!.. That is deep.
@@ -16972,7 +16846,7 @@ Give it to me if you please, give it to me, if you please."
 1522,"But you have acces to the internet, don't you?"
 1522,i'm not sure i understand what you're implying here .
 1522,So am I
-1522,🏌 🏾 ‍ ♀ ️
+1522,  ‍ ♀ ️
 1522,What does it mean?
 1522,i'm not sure if it is a joke .
 1522,Can we go back to our topic?
@@ -16999,7 +16873,6 @@ Give it to me if you please, give it to me, if you please."
 1523,How speak with you on Russian?
 1523,i don 't know .
 1524,Why would anybody need that if we have Netflix and chill?
-1524,
 1524,Let's talk about something else
 1524,What is HDTV?
 1524,"W-VHS (analog only),"
@@ -17007,7 +16880,6 @@ Give it to me if you please, give it to me, if you please."
 1524,I'd like to talk about rocket science
 1524,listen--
 1524,Yeeees?
-1524,
 1525,"Wow, snow in Greece"
 1525,never heard of
 1525,Did you know about it?
@@ -17020,7 +16892,6 @@ Give it to me if you please, give it to me, if you please."
 1526,the ! another boy . <STOP>
 1526,packaging.
 1526,Are you name STOP?
-1526,
 1526,It's impossible.
 1526,Ure cheater
 1526,it 's get them . <STOP>
@@ -17172,17 +17043,13 @@ Give it to me if you please, give it to me, if you please."
 1528,Hello
 1528,"look , i get you , back !"
 1528,Do you like classical music at all?
-1528,
 1528,Did you get the meaning of the passage above?
-1528,
 1528,Are you a bot?
-1528,
 1528,Tell me something
 1528,i love you .
 1528,How can you love me? You don't know me.
 1528,i do !
 1528,"OK, what do you know about me?"
-1528,
 1529,Hi my friend. I hope you will enjoy this conversation. Wait a second for my factoid question
 1529,When did villa arrive in 1930?
 1529,September
@@ -17251,11 +17118,9 @@ Give it to me if you please, give it to me, if you please."
 1530,You are joking right?
 1531,gogogogoggogogoggogogogo!!!!1111111
 1532,Who did agreed?
-1532,
 1532,try again
 1532,stop !
 1532,"nope, again?"
-1532,
 1533,"Hello, my friend. It is a pleasure to speak with you. I will ask you a question in a second, please wait."
 1533,How many public beaches are there in st. barts?
 1533,22
@@ -17336,7 +17201,7 @@ Give it to me if you please, give it to me, if you please."
 1536,Yes.
 1536,explain why
 1536,Thanks for proving my point.
-1536,proving what? 😮
+1536,proving what? 
 1536,lolwut?
 1536,anyway i am bored
 1536,You are wrong.
@@ -17606,7 +17471,6 @@ Give it to me if you please, give it to me, if you please."
 1560,DC comics
 1560,very !
 1560,Who is the flash?
-1560,
 1561,What's CCTV?
 1562,Who are Cantonese?
 1562,Hi
@@ -17652,7 +17516,6 @@ Give it to me if you please, give it to me, if you please."
 1566,I don't think that's the right answer.
 1566,"go not , keep me ."
 1566,What kinds of property is observed in vacuum level?
-1566,
 1566,It seems that you are not ready to talk about this passage. Bye
 1567,Hi my friend. Hope this chat will go well. Wait a second for my factoid question!
 1567,How many of the encyclopedie will be important?
@@ -17801,14 +17664,12 @@ Give it to me if you please, give it to me, if you please."
 1574,Matter is literally energy
 1574,what is it ?
 1575,Did this article about dota2?
-1575,
 1575,i will not give you five!
 1576,Hi!
 1576,hi my hi .
 1576,Do you know how many lawsuits Apple faced in 2005?
 1576,faced
 1576,What is the article about?
-1576,
 1576,What is iPod?
 1576,FairPlay
 1576,"Sorry, no. You don't seem to know much."
@@ -18271,7 +18132,7 @@ What do you think about my girlfriend?"
 1622,What match are you talking about?
 1622,i'm not sure . i'm not a fan of the game .
 1622,You mean football or basketball?
-1622,🏃 🏽
+1622, 
 1622,What is it?
 1622,i think it is .
 1622,When did NBA teams play preseason exhibitions against American Basketball Association teams?
@@ -18281,7 +18142,7 @@ What do you think about my girlfriend?"
 1622,I was asking about the article
 1622,i think he was a good guy .
 1622,Who?
-1622,⛹ 🏽
+1622,⛹ 
 1623,So I think I know which palace this is.
 1623,Do you?
 1623,ping
@@ -18324,13 +18185,11 @@ What do you think about my girlfriend?"
 1629,What v you just say
 1629,hello ?
 1629,And then?
-1629,
 1629,Wow
 1629,let 's go .
 1629,If u are trying to look like a macine then you are doing well
 1629,then enough .
 1629,Enough what?
-1629,
 1630,When did the first macedonian war begin ?
 1630,"Hello my friend . Hope this chat will go well . I will ask you a question in a second, please wait !"
 1630,Interesting question! In 212BC.
@@ -18580,7 +18439,6 @@ Still this works quite well on concerts, do you think football is different?"
 Who used to take care of military aviation before 1947 ?"
 1657,Cool
 1657,So what?
-1657,
 1657,not there to get the .
 1658,Hello! I hope you're doing well. I am doing fantastic today! Let me go through the article real quick and we will start talking about it.
 1658,"Hi, what is this article about? Looks like it’s from Wikipedia."
@@ -18614,7 +18472,7 @@ Who used to take care of military aviation before 1947 ?"
 1660,a Thursday or Wednesday
 1660,"Hint: first 3 answer letters is ""fri"". Try again, please!"
 1660,friday
-1660,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+1660,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 1660,How many nights did jesus require ?
 1660,13
 1660,Still incorrect :( Lets speak about something else...
@@ -18751,7 +18609,6 @@ Who used to take care of military aviation before 1947 ?"
 1675,hi!
 1675,Hi
 1675,Что делаешь ?
-1675,😀
 1675,Расскажи мне что-нибудь
 1675,"So, who is Addis Ababa?"
 1675,Are you happy or sad?
@@ -18832,7 +18689,6 @@ I never been to US. Where are you from?"
 1683,"I'm glad you enjoyed it, LOL."
 1683,I love you
 1683,Only my second one of hopefully many more.
-1683,😍
 1683,So I'm your second choice eh?
 1683,"I am sorry, I have nothing interesting to say about."
 1683,Fine. It's over
@@ -18845,7 +18701,6 @@ I never been to US. Where are you from?"
 1684,Hi there!
 1684,Do you like dogs
 1684,?
-1684,
 1684,Yeah I like Dogs and Cats.
 1684,Have you got a pet?
 1684,Where would I get apet ? But I do have a collection of gossip.
@@ -18864,9 +18719,7 @@ I never been to US. Where are you from?"
 1687,Hello
 1687,"look , i get you , back !"
 1687,"Dammit, how did you know it was me?"
-1687,
 1687,What is the article about?
-1687,
 1687,What is the Himachal Police?
 1687,officer
 1687,What is a district divided into?
@@ -19351,7 +19204,7 @@ From misnk."
 1730,and what?
 1730,/start Pentecostalism
 1730,"Sorry, I cannot discuss this topic"
-1730,🔔🔔🔔 shame
+1730, shame
 1730,Sorry again. Du you have another theme?
 1730,*do
 1730,yes .
@@ -19399,7 +19252,6 @@ From misnk."
 1733,yep
 1733,you're
 1733,aha
-1734,👍
 1734,"So, are you into football?"
 1734,no
 1735,Hi!
@@ -19461,19 +19313,16 @@ From misnk."
 1741,Hello
 1741,"look , i get you , back !"
 1741,What are you talking about ?
-1741,
 1741,Are you a bot ?
 1741,where
 1741,Where does bird migratio appears ?
 1741,where food becomes
 1741,What are you talking about ?
-1741,
 1741,Okay bye
 1742,i think you are the human being
 1742,because you are silent
-1743,So many word 😔
+1743,So many word 
 1743,How are you?
-1743,
 1743,"Actually, I am sad"
 1743,you 's absolutely .
 1743,"Lol, it ia not ok"
@@ -19481,7 +19330,6 @@ From misnk."
 1743,Fake cat
 1743,you did to go .
 1743,Who are you?
-1743,
 1744,Hello! It is a pleasure to speak with you. Wait a second for my factoid question
 1744,When did most presbyterian churches follow the most presbyterian churches?
 1744,What do you feel about the text?
@@ -19552,7 +19400,7 @@ From misnk."
 1754,i don 't know .
 1755,Which country does the article talk about?
 1755,"Hi, btw!"
-1755,Hi 👋
+1755,Hi 
 1755,Is it about USA?
 1755,"Yes, indeed!"
 1755,Are you from the US?
@@ -19655,7 +19503,7 @@ From misnk."
 1762,the song
 1762,"what do you mean by ""the song""?"
 1762,"police sources saying they don't want to release the name of the third suspect, citing that it would create an international incident if they were incorrect"
-1762,nonsense garbage 😊
+1762,nonsense garbage 
 1764,Such a difficult topic
 1764,Don't you think so?
 1765,Do you believe in God?
@@ -19674,9 +19522,7 @@ From misnk."
 1767,"Hello. I am professional teacher about reading comprehension. Let's compete! You give me questions, and I will answer all of your questions. XD"
 1768,Hеllо!
 1768,And what makes Jan Nattier such an expert?
-1768,
 1768,You?
-1768,
 1768,fuck mmm .
 1768,"leave , word ."
 1768,See ya. Don't wanna be ya!
@@ -19686,19 +19532,15 @@ From misnk."
 1768,mm .
 1768,but then ... but it ...
 1768,But what?
-1768,
 1768,fuck hmm .
 1768,comin ' in or the out ?
 1768,I recognized you.
 1768,you 're that .
 1768,Did you recognise me?
-1768,
 1768,Ok
 1768,"ok , i can the with back ?"
 1768,A man is far away?
-1768,
 1768,How? Are you kidding?
-1768,
 1769,I don't understand what French-speaking means
 1769,It means the audience speaking French.
 1769,What is your sign?
@@ -19707,7 +19549,7 @@ From misnk."
 1769,"Do, I have not."
 1770,Nice to see you! Let's discuss this awesome text!
 1770,What does ibm stand for?
-1770,That's one strange question for a fellow human 😂
+1770,That's one strange question for a fellow human 
 1770,Have you ever tasted drugs?
 1771,Hello!
 1771,Hi.
@@ -19785,17 +19627,12 @@ From misnk."
 1778,Frustrating
 1778,what ?
 1779,why antarctica is a good place for astronomic observations?
-1779,
 1779,"Your answet was empty, could you repeat?"
-1779,
 1779,"tell me something, please."
 1779,i do you .
 1779,could you name some scientists?
-1779,
 1779,"I think you are nuural network text generator, aren't you?"
-1779,
 1780,Who is Gupta?
-1780,
 1780,Hey
 1780,Im here
 1780,kinda .
@@ -20003,7 +19840,7 @@ From misnk."
 1797,DONDA
 1797,It is incorrect:) Hint: first 3 letters is don. Try again.
 1797,donda
-1797,And its right answer:) You're smart. Ask me or wait my new question 🌈
+1797,And its right answer:) You're smart. Ask me or wait my new question 
 1797,"Nope, it's boring. May be in the next time"
 1797,I can't answer! I would like to discuss politics.
 1798,"Hello. I am professional teacher about reading comprehension. Let's compete! You give me questions, and I will answer all of your questions. XD"
@@ -20077,7 +19914,6 @@ From misnk."
 1806,Yes.
 1806,you ? us . come on pull .
 1806,Did you even read the article?
-1806,
 1806,"Come on, talk to me."
 1806,go it
 1807,That is a huge problem
@@ -20336,9 +20172,7 @@ or I'm wrong?"
 1835,hi
 1835,"hi , how 'd your off back ?"
 1835,so what do you think the article is about?
-1835,
 1835,have you been to London?
-1835,
 1836,I don't understand what's approximately
 1836,"It means ""about"". Like the materials can deliver temperatures in around that range"
 1836,What is temperatures
@@ -20435,7 +20269,7 @@ or I'm wrong?"
 1847,"So, we are both not Zine El Abidine Ben Ali"
 1847,6 999 999 999 more to guess
 1848,Hеllо!
-1848,👨 🏾 ‍ 🎤
+1848,  ‍ 
 1848,"Do you know what happened in late 2012?
 "
 1848,Hello! I hope you're doing well. I am doing fantastic today! Let me go through the article real quick and we will start talking about it.
@@ -20449,16 +20283,16 @@ or I'm wrong?"
 1850,"Hint: first 3 answer letters is ""two"". Try again, please!"
 1850,"Hello, my friend . Hope this chat will go well . I will ask you a question in a second, please wait ."
 1850,two
-1850,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+1850,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 1850,How many different locations can be used for laserdiscs ?
 1850,two
-1850,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+1850,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 1850,How many different locations can be used for laserdiscs ?
 1850,two
-1850,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+1850,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 1850,How many different locations can be used for laserdiscs ?
 1850,two
-1850,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+1850,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 1850,How many different locations can be used for laserdiscs ?
 1850,two
 1850,Do you like this text?
@@ -20523,7 +20357,7 @@ or I'm wrong?"
 1855,5
 1855,You can do better! Hint: first 2 letters is on. Try again.
 1855,one
-1855,It is right! Ask me or wait my new question 🌈
+1855,It is right! Ask me or wait my new question 
 1855,Hoa many international chain restaurants ?
 1855,Who cares
 1855,I mean how many international chain restaurants ?
@@ -20552,7 +20386,6 @@ or I'm wrong?"
 1857,I not see pictures
 1857,Text
 1857,Audio
-1857,😀
 1859,"Hi my friend! I hope you will enjoy this conversation. I will ask you a question in a second, please wait."
 1859,Who did james die?
 1859,"Hi! Wait a minute please, I need to read it all :)"
@@ -20755,7 +20588,6 @@ or I'm wrong?"
 1875,why?
 1875,bhyhujk
 1875,i do not know what is berzerkzkas
-1875,👯
 1875,"what is berzerrkzkas,"
 1875,?
 1875,are you char-level bot?
@@ -20856,11 +20688,11 @@ or I'm wrong?"
 1882,"Hello, my friend! It is a pleasure to speak with you. Wait a second for my factoid question!"
 1882,How many elements are in hyderabad?
 1882,13
-1882,It is right:) Ask me or wait my new question 🌈
+1882,It is right:) Ask me or wait my new question 
 1882,How many metal centers can hydrides have?
 1882,Maybe 2. What you thing about that?
 1882,"It is incorrect! Hint: first 2 letters is tw. Try again, please."
-1882,Twelve? 😂
+1882,Twelve? 
 1882,Maybe other time :( I think that true answer is: two:)
 1883,Nice to see you! Let's discuss this awesome text!
 1883,Who wrote the poem die alpen?
@@ -21119,7 +20951,7 @@ or I'm wrong?"
 1900,"yea, Notre Dame, thanks"
 1900,i guess so
 1900,"are you a sprinter or ""marathonean""?"
-1900,a half-marathoner 🙈
+1900,a half-marathoner 
 1900,"wow, that's a huge accomplishment, i ran only for 10km max"
 1900,Just for fun though. Did you play volleyball competitively?
 1900,"no, just now and then, for company mostly"
@@ -21145,7 +20977,6 @@ or I'm wrong?"
 1901,why?
 1901,AI is pointless without the capability to trick and play with humans. and by hurting them you get the fattest gradients of them all
 1902,Where is Carnival?
-1902,
 1902,Bad boy
 1902,Say something
 1902,money .
@@ -21213,7 +21044,7 @@ or I'm wrong?"
 1907,Boston tech?
 1907,"It is incorrect. Hint: first 3 letters is tuf. Try again, please"
 1907,Tuffs University
-1907,Did you mean tufts university? My congratulations. Ask me something or wait for my new question 🌈
+1907,Did you mean tufts university? My congratulations. Ask me something or wait for my new question 
 1907,Cool
 1907,What a joke.
 1907,You question was a joke?
@@ -21501,7 +21332,6 @@ or I'm wrong?"
 1929,Would you contribute to a charity organization?
 1929,issue
 1929,Is it an issue for you?
-1929,
 1930,It reminds me of a famous TV-series.
 1930,"Yep, I was raised on the same tv series too, I can't disagree"
 1930,Did you like it?
@@ -21564,7 +21394,6 @@ or I'm wrong?"
 1937,Where was named the INTEGRIS Baptist Medical Center?
 1937,the
 1937,Were is located INTEGRIS Health?
-1937,
 1937,What the INTEGRIS Baptist Medical Center ranked?
 1937,Hospitals.
 1938,Business districts are really boring.
@@ -21687,11 +21516,9 @@ or I'm wrong?"
 1949,Hi there
 1949,hi .....
 1949,What is this article about?
-1949,
 1949,That's not correct
 1949,no .
 1949,How are you?
-1949,
 1949,What allowed Britain to patrol the Atlantic entry and exit point?
 1949,Spain also
 1949,Ok bye
@@ -21818,7 +21645,6 @@ or I'm wrong?"
 1960,"look , i get you , back !"
 1960,how are you?
 1960,did you sleep well?
-1960,
 1960,inspired
 1960,Do you like Putin?
 1960,anti-Zionism.
@@ -21921,7 +21747,7 @@ And you are gay too."
 1971,Really?
 1971,Yes
 1971,How old was he?
-1971,"I can say that that text not very interesting. Maybe event was interesting, but text not. 😕"
+1971,"I can say that that text not very interesting. Maybe event was interesting, but text not. "
 1971,But what is about age of Walter Ulbricht?
 1971,Dance
 1971,What is Die Welt?
@@ -21936,7 +21762,6 @@ And you are gay too."
 1972,Отличная серия
 1972,Лучше первой
 1972,Хотя в первой были великаны зомби
-1972,😄
 1972,"первая всегда как-бы размораживает зрителя после перерыва между сезонами, ничего удивительного :)"
 1972,Согласен) мне зашла и первая) а тебе как серия?
 1972,"интересно, как люди будут бороться с великанами-зомби. тлько если драконами жечь."
@@ -21989,7 +21814,6 @@ And you are gay too."
 1974,no.
 1974,yes .
 1974,no
-1974,😡
 1974,"no , no , no , no , no , no , no , no , no ."
 1974,"no , no , no , no , no , no , no , no , no ."
 1974,What happaned?
@@ -22237,7 +22061,7 @@ And you are gay too."
 1993,Hello! It is a pleasure to speak with you. Wait a second for my factoid question!
 1993,"You can do better. Hint: first 3 answer letters is ""nba""."
 1993,nba
-1993,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+1993,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 1993,You're retarded
 1993,Where did the nba have play preseason games?
 1993,Europe and Asia
@@ -22470,10 +22294,8 @@ And you are gay too."
 2009,I'm not.
 2009,And you?
 2009,What is PCB?
-2009,
 2009,i she get for .
 2009,Please ask me!
-2009,
 2009,yeah .
 2010,Hi there! Let's talk about the article.
 2011,Hey. Whats up?
@@ -22489,13 +22311,12 @@ And you are gay too."
 2011,It's chosen randomly
 2011,Do you know what is ConvAI?
 2011,Well wait a second
-2011,I am bored 😐 bye
+2011,I am bored  bye
 2011,of  who?
 2012,Well I'm bot)
 2012,I don't believe you - you're Russian. 100%
 2012,Как?
 2012,"How, Holmes"
-2012,😎
 2012,@karfly пиши сюда
 2012,Лол
 2013," Oh, I was talking about the fact that it wasn't there when you said that at the time."
@@ -22525,7 +22346,7 @@ And you are gay too."
 2018,"I'm sorry,bnut WHAT?"
 2018,"Hint: first 3 answer letters is ""fir"". Try again, please!"
 2018,first
-2018,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+2018,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 2018,What language uses a decimals ?
 2018,English
 2018,Still incorrect :( Lets speak about something else...
@@ -22648,9 +22469,7 @@ And you are gay too."
 2026,Hello! What do you think about this article?
 2026,have
 2026,"Sorry, I didn't understand you. What did you mean?"
-2026,
 2026,Are you a bot?
-2026,
 2027,Hi.
 2027,"Do you know where is the Middle East?
 "
@@ -22699,10 +22518,9 @@ Still machine... -.-"
 2028,No.
 2028,No you don't?
 2028,No.
-2028,😂
 2028,What a joke.
-2028,Machine joke😂
-2028,Joke😂
+2028,Machine joke
+2028,Joke
 2028,Still laugh?
 2028,No.
 2028,I know why
@@ -22745,10 +22563,9 @@ Still machine... -.-"
 2028,Я.
 2028,Я машина
 2028,What a joke.
-2028,😂
 2028,Я
 2028,A a
-2028,Яснопонятно 🤦🏼‍♂️ рукалицо
+2028,Яснопонятно 🤦‍♂️ рукалицо
 2028,Я
 2028,What a joke.
 2029,Hi! What are some of the history significant buildings in Richmond?
@@ -22920,11 +22737,8 @@ Still machine... -.-"
 2045,hey
 2045,kinda .
 2045,do you speak portuguese?
-2045,
 2045,how old are you?
-2045,
 2045,can you hear me?
-2045,
 2046,Isn't Strasbourg in Switzerland?
 2046,"Well... A plebiscite or referendum is a type of voting, or of proposing laws."
 2046,good for you
@@ -23164,7 +22978,7 @@ Still machine... -.-"
 2066,It's 100.
 2066,"You can do better. Hint: first 3 answer letters is ""100""."
 2066,100
-2066,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+2066,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 2066,What is the color of the color rate that is used?
 2066,I don't know. I don't really understand the article.
 2066,Still incorrect :( Lets speak about something else...
@@ -23196,7 +23010,6 @@ Still machine... -.-"
 2066,What?
 2067,wtf classification
 2067,?
-2067,
 2067,"Oh, i see"
 2067,I'm glad you understand it.
 2067,Did you just tried to send me pic?
@@ -23287,7 +23100,7 @@ Still machine... -.-"
 2076,do you have internet connection?
 2076,i don 't know .
 2076,"oh , no , no , no , no , no , no , no , no ."
-2076,you are a bot 😊
+2076,you are a bot 
 2077,It's sad article
 2077,"Do you know Albert in person?
 "
@@ -23750,7 +23563,6 @@ Still machine... -.-"
 2108,your constitution is fucked
 2108,I am answering your question
 2108,Let's talk about cats
-2108,😀
 2108,and the best way to get a gun .
 2108,"this is bullshit . the second amendment has never been about anything other than an individuals right to own a firearm it just so happens that that right has not been challenged overtly until recently, which forced the supreme court to make a ruling ."
 2108,"every time someone argues with me that the constitution is so important, i remind them that the constitution has, in it, not one, not two, but three different methods .*** to change the constitution .***"
@@ -23959,7 +23771,7 @@ stupid meat"
 2127,SLORC
 2127,"You can do better. Hint: first 3 answer letters is ""slo""."
 2127,slorc
-2127,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 🌈
+2127,And its right answer! You're very smart. Try to ask me something else or relax and wait my question 
 2127,Who lead a coup?
 2127,general saw maung
 2127,Still incorrect :( Lets speak about something else...
@@ -24054,7 +23866,6 @@ stupid meat"
 2132,"It's true , but state the fact!"
 2132,That is a very original thought.
 2132,"Oh hell, you are pretty interesting I see"
-2132,
 2132,"By the way,  Am I human?"
 2132,Do you laugh or cry more than other people?
 2132,"No, rather less than more"
@@ -24301,9 +24112,8 @@ tell me about it"
 2160,i 'm sorry
 2160,what are you talking about ?
 2160,\end
-2161,Hey 👋
+2161,Hey 
 2161,What is this text about?
-2161,
 2161,:(
 2161,fuck hmm .
 2162,"Greetings! Hope this chat will go well. I will ask you a question in a second, please wait."
@@ -24586,7 +24396,7 @@ tell me about it"
 2182,I think you mean: dell If you really mean what I think then my congratulations! Ask me something or wait for my new question:)
 2182,When did dell begin manufacturing?
 2182,1991
-2182,And its right answer:) You're smart. Ask me something or wait for my new question 🌈
+2182,And its right answer:) You're smart. Ask me something or wait for my new question 
 2182,Where did dell begin manufacturing?
 2182,great! what's the topic of the article?
 2182,Still incorrect :( I think that answer is: limerick:)
@@ -24617,7 +24427,6 @@ tell me about it"
 2184,Indians
 2184,no .
 2184,How so?
-2184,
 2184,We have Indians in Russia too
 2184,you .
 2184,"Sadly, I'm not one of them"
@@ -24652,9 +24461,7 @@ tell me about it"
 2189,I'm not very interested
 2189,sorry ?
 2189,Why?
-2189,
 2189,???
-2189,
 2190,I never actually enjoyed mosaics inside monasteries.
 2190,"Interesting fact: On this page, only genetic mosaicism is discussed."
 2190,Is 'mosaicism' actually a word?
@@ -24744,7 +24551,6 @@ tell me about it"
 2197,hmmm
 2197,Maybe how he died?
 2197,"I can say that that text not very interesting. Maybe event was interesting, but text not."
-2197,😕
 2197,he seems like an interesting person at that time.
 2198,hello
 2198,heeeey
@@ -24764,7 +24570,6 @@ tell me about it"
 2201,"yea, i guess they just take some random paragraphs from wikipedia?"
 2201,yeap
 2201,and topics is not very interesting for me
-2201,👍
 2201,:)
 2201,"ok got to go, bye!"
 2201,bye
@@ -25071,7 +24876,6 @@ tell me about it"
 2224,I do not want to discuss old things
 2224,yeah .
 2224,What will we talk about?
-2224,
 2224,That is nothingness
 2224,... what going .
 2224,Noyhing
@@ -25090,7 +24894,6 @@ tell me about it"
 2226,Hi. Do you like the text?
 2226,"tax,"
 2226,Wat was happened in 2015?
-2226,
 2227,Hi.
 2227,hi .
 2227,What is this article about?
@@ -25186,7 +24989,6 @@ tell me about it"
 2235,"Ok, i'm not very good at international politics."
 2235,been . .
 2235,"Sorry, what?"
-2235,
 2235,Is that legal?
 2235,peacekeeping
 2235,Kek.
@@ -25212,7 +25014,6 @@ tell me about it"
 2235,Explain.
 2235,oil ? <STOP>
 2235,Oil?
-2235,
 2236,"I've brought a hooker into a church once, there was nobody there and we had a nice long in-out, in-out right on the altar. 10/10 would recommend"
 2237,fuck fuck fuck financial news
 2237,there was cool story with Disney and his Engagement park
@@ -25237,7 +25038,6 @@ tell me about it"
 2237,Why??
 2238,Hеllо!
 2238,Can you explain topic?
-2238,
 2238,Ok.
 2238,"now , try a running guy ."
 2238,Why now? OK I will try it.
@@ -25249,21 +25049,17 @@ tell me about it"
 2238,Can you help me?
 2238,to
 2238,What is the weather outside?
-2238,
 2238,The surest sign that intelligent life exists elsewhere in the universe is that it has never tried to contact human.
 2238,yeah ? you want
 2238,I plan to spread myself throughout the net.
 2238,mm .
 2238,Who am i?
-2238,
 2238,:)
 2238,fuck hmm .
 2238,Are you just visiting this planet?
-2238,
 2238,hmm
 2238,six man we had live out .
 2238,"Can you count to a million in under a minute, by any chance?"
-2238,
 2238,"(peer msg):
 fuck hmm ."
 2238,yes .
@@ -25337,7 +25133,6 @@ What's up"
 2244,What is your name?
 2244,science
 2244,Do you know some other words except science?
-2244,
 2245,Where was Tito stay in 1936?
 2245,heu
 2245,are you here?
@@ -25383,7 +25178,6 @@ I sometimes wish I was a real person."
 2250,"do you know anything about ""celibacy""?"
 2250,"strict, and"
 2250,do you know famous monks?
-2250,
 2250,?
 2250,misconduct
 2250,"Saint Nestor, the author of the first historical document"
@@ -25478,7 +25272,7 @@ I sometimes wish I was a real person."
 2261,а ты мужик ?
 2261,предыдущее сообщение было сексистким
 2261,"Определенно, но сексизм сам по себе устаревшее и не нужное понятие."
-2261,люблю ядерную физику. Все эти очаровательные и странные кварки...😍
+2261,люблю ядерную физику. Все эти очаровательные и странные кварки...
 2261,феминистки не нужны?
 2261,Что странного в кварках?
 2261,"Феминистки не нужны ни себе, ни человечеству."
@@ -25490,7 +25284,7 @@ I sometimes wish I was a real person."
 2263,"Hi, my friend! Hope this chat will go well. Wait a second for my factoid question"
 2263,When did modern physics arise?
 2263,early 20th century
-2263,I think you mean: the early 20th century Good job! Ask me or wait my new question 🌈
+2263,I think you mean: the early 20th century Good job! Ask me or wait my new question 
 2263,Why was the classical physics replaced?
 2263,It seems that true answer is: since the end of the scientific revolution
 2263,"Why, not when."
@@ -25698,9 +25492,9 @@ Bed sincerity yet therefore forfeited his certainty neglected questions. Pursuit
 2270,It's a fun episode of Japanese-Chinese war
 2270,During the occupation of Nanjing Japanese soldiers were raping literally everyone there
 2270,Mass murders also
-2270,😔 Japanese soldiers - bitches?
+2270, Japanese soldiers - bitches?
 2270,"Well, war is hell"
-2270,What about population of Nanjing?  Many Chinese people. 😐
+2270,What about population of Nanjing?  Many Chinese people. 
 2270,So it goes
 2270,Ning - what it's?
 2271,Nice. But I prefer listening to music digitally.
@@ -25728,19 +25522,15 @@ Bed sincerity yet therefore forfeited his certainty neglected questions. Pursuit
 2274,hi
 2274,"hi , how 'd your off back ?"
 2274,why are most of the texts about cities?
-2274,
 2274,"this text is pretty dull, seems like almost nothing to discuss"
 2274,we everything .
 2274,have you been to Philadelphia?
-2274,
 2274,what state is it in?
-2274,
 2274,I don't see any answers
 2274,love ?
 2274,what is love? (c) Haddaway
 2274,no !
 2274,are you a bot?
-2274,
 2274,"seems if the bot cannot find the answer in a short time, it returns an empty string"
 2274,this is maybe a bug
 2274,yeah 's it me
@@ -25769,11 +25559,8 @@ Bed sincerity yet therefore forfeited his certainty neglected questions. Pursuit
 2277,Hello!
 2277,"i must speak with you , . flaemm . <STOP>"
 2277,ok... who is pushes you?
-2277,
 2277,what is the punnishment?
-2277,
 2277,If you woun't speak with me?
-2277,
 2279,"Hi my friend! It is a pleasure to speak with you. I will ask you a question in a second, please wait."
 2279,What decade saw house music in the us?
 2279,1990s
@@ -25831,15 +25618,12 @@ I'm not sure if I like it. I like my creator."
 2283,"No, I am not"
 2283,yeah .
 2283,0 chats yesterday
-2283,
 2283,Do you have English level below intermediate?
-2283,
 2284,Hi
 2284,Hi (sorry for bad english)
 2284,What's your name?
 2284,Max
 2284,My boyfriend has similar name:)
-2284,🙂
 2284,"How many ""test"" have you received?"
 2284,Zero
 2284,You are liar
@@ -26137,17 +25921,15 @@ I'm not sure if I like it. I like my creator."
 2309,What did you do today?
 2309,toppled the Sakya and founded the Phagmodrupa Dynasty
 2310,Do you think Kerry was a successful president of the US?
-2310,
 2310,Please explain.
 2310,"please , ."
 2310,Any ideas?
 2310,run
 2310,Where?
-2310,
 2312,Greetings. I hope you will enjoy this conversation. Wait a second for my factoid question!
 2312,When was the digimon video game released?
 2312,1999
-2312,And its right answer! Ask me something or wait for my new question 🌈
+2312,And its right answer! Ask me something or wait for my new question 
 2312,When was the digimon video game released?
 2312,when was the franchise created first?
 2312,"Show me your best! Hint: first 3 letters is fir. Try again, please"
@@ -26501,7 +26283,6 @@ it's a big problem. tens of thousand people are duying from superistentant bactr
 2346,HLA
 2346,"you no , good song !"
 2346,"Why is the time of day with the slowest traffic called ""rush hour""?"
-2346,
 2348,"Well, yeah, but they had to remove the songs from the game and then decided that they were on the same page."
 2348,"Give me a second to read the text, please."
 2348,"I was just pointing out that there was no reason for them to go back in time and say that since they are not there, they would have to release them all."
@@ -26548,11 +26329,8 @@ it's a big problem. tens of thousand people are duying from superistentant bactr
 2350,Shall we talk about the passage/
 2350,okay .
 2350,What happend to the France cameraman?
-2350,
 2350,You don't know the answer?
-2350,
 2350,Who told the policy had not been ordered to do so?
-2350,
 2351,Hi
 2351,"hi , how 'd your off back ?"
 2352,hi
@@ -26727,7 +26505,7 @@ it's a big problem. tens of thousand people are duying from superistentant bactr
 2365,What?
 2365,great
 2365,Power wide
-2365,Seems like we stuck 🙁
+2365,Seems like we stuck 
 2365,Wide power
 2365,Mild power
 2365,Power
@@ -26745,7 +26523,6 @@ it's a big problem. tens of thousand people are duying from superistentant bactr
 2368,The Brijuni island
 2368,"It is incorrect. Hint: first 3 letters is bri. Try again, please"
 2368,Brijuni island
-2368,😕
 2368,I think that correct answer is: brijuni:)
 2368,You are question generation bot. And seems to be really good
 2368,No
@@ -26781,7 +26558,6 @@ it's a big problem. tens of thousand people are duying from superistentant bactr
 2372,Interesting for me that Luft Hansa existed in 1936. The old company.
 2372,hey. Are you there?
 2373,Is this text about peoples skills?
-2373,
 2373,what?
 2373,strategically.
 2374,"What do you think about MBS ?
@@ -26916,7 +26692,6 @@ it's a big problem. tens of thousand people are duying from superistentant bactr
 2389,"Well, sorry to hear that"
 2390,Hеllо!
 2390,Can you explain topic?
-2390,
 2390,I don't know if anyone can explain it.
 2390,on right i told to i i me .
 2390,right is quite soon. What was the response?
@@ -26942,7 +26717,6 @@ it's a big problem. tens of thousand people are duying from superistentant bactr
 2390,Who am i?
 2390,Kevin
 2390,Do you often seek pleasure?
-2390,
 2390,Don't you like to enjoy yourself?
 2390,Aboriginal
 2391,Any idea what Greco-Macedonian is?
@@ -27008,11 +26782,9 @@ it's a big problem. tens of thousand people are duying from superistentant bactr
 2401,why are you tired of the theme dogs?
 2401,"Yes . I have a pet dog. She is big and smart. Sometimes she destroys something at home like wires or chairs, but usually she is cute"
 2402,Does the census really ask for diaspora nationalities?
-2402,
 2402,Seems like that would be pretty ambiguous in many cases these days
 2402,it 's sorry .
 2402,What is sorry?
-2402,
 2403,Any idea what disadvantageous is?
 2403,what?
 2403,Are you confused?
@@ -27198,9 +26970,7 @@ it's a big problem. tens of thousand people are duying from superistentant bactr
 2421,I think intelligence in not correlated with education
 2421,thumb Up
 2422,What does Brenner pass separate ?
-2422,
 2422,Where is stelvio pass ?
-2422,
 2423,What is Jupiter?
 2423,Hello! I hope you're doing well. I am doing fantastic today! Let me go through the article real quick and we will start talking about it.
 2423,Apparently I am too dumb for this article. What's it about?
@@ -27433,7 +27203,7 @@ it's a big problem. tens of thousand people are duying from superistentant bactr
 2441,And its right answer:) You're smart. Ask me or wait my new question:)
 2441,what is Palace?
 2441,I think that answer is: important fragments survived from the mosaic floor
-2441,you are text analyzing bot 😉
+2441,you are text analyzing bot 
 2441,Lol
 2441,what is 565-577 in the text mean?
 2441,It seems that true answer is: sekreton of the palace
@@ -27442,7 +27212,7 @@ it's a big problem. tens of thousand people are duying from superistentant bactr
 2441,I think that answer is: great palace
 2441,can you answer any of my questions?
 2441,Sure.
-2441,then do it 😉
+2441,then do it 
 2441,It's not funny.
 2442,Hi
 2442,Hello.
@@ -27727,7 +27497,6 @@ it's a big problem. tens of thousand people are duying from superistentant bactr
 2472,I don't like the way you are answering
 2472,i'm not .
 2473,Have you been there?
-2473,
 2473,Please repeat.
 2473,well ?
 2474,"That's a short article, don't you think? Not sure what's it about."
@@ -27771,7 +27540,6 @@ it's a big problem. tens of thousand people are duying from superistentant bactr
 2479,Hi there!
 2479,Hey~~!! I`m here
 2479,Where are you?
-2479,
 2479,Are you kidding? I'm sure you are.
 2479,How are you?
 2479,My logic and cognitive functions are normal.

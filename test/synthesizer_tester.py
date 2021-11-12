@@ -11,14 +11,14 @@ class synthesizer_tester:
         self.folder = folder
         self.source_dir = "/home/chauncey/PycharmProjects/Parsing_Telegram_Chat_History/data/synthesizer_data/"+self.folder+"/"   # source file from chitchat
         self.time_user = os.path.join(self.source_dir,"tu_sequence.json")
-        self.embedding = os.path.join(self.source_dir,"reply_BST_1_1.json")
+        self.embedding = os.path.join(self.source_dir,"reply_embeding.json")
     def test_accuracy(self):
         D=4
         A_t = np.zeros((D, D))
         A_t_text = np.zeros((D, D))
         time_user = read_json(self.time_user)
         embedding = read_json(self.embedding)
-        for i in range(1,201):
+        for i in range(1,51):
             group = time_user[i-1]
             user_sequence = group["user_sequence"]
             time_sequence = group["time_sequence"]
@@ -39,7 +39,7 @@ class synthesizer_tester:
         print(A_t_text)
 
 if __name__ == '__main__':
-    a_test = synthesizer_tester("blended_skill_talk")
+    a_test = synthesizer_tester("ConvAIChitChat")
     a_test.test_accuracy()
     A = np.random.rand(4, 4)
     A[0, 1] = 0.9
