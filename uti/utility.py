@@ -16,7 +16,10 @@ def write_to_csv_file(file_path, data):
         writer = csv.writer(f)
         writer.writerows(data)
 
-
+def create_fix_random_matrix(D):
+    np.random.seed(0)
+    A = np.random.rand(D, D)
+    return A
 def read_csv_todf(file):
     df = pd.read_csv(file)
     return df
