@@ -24,8 +24,8 @@ def simulate_reply_embedding(trigger_sequence):
     reply_embedding = []
     for i in range(1,length):
         index = trigger_sequence[i]
-        ls = [0]*i
-        ls[index] = 1
+        ls = [0.2]*i
+        ls[index] = 0.8
         reply_embedding.append(ls)
     return reply_embedding
 
